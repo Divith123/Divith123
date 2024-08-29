@@ -1,15 +1,17 @@
 <h1 align="center">
-  <img src="GIF/Earth.gif" width="24px" alt="Earth GIF"/>
+  <img src="https://media.giphy.com/media/5zZP4i3TqHT7y/giphy.gif" width="24px" alt="Earth Gif"/>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
 </h1>
 
 <h3 align="center">I'm Divith Selvam</h3>
 
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Divith123&style=flat&color=blue"/> •
-  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Divith123?label=Followers&style=social"/> •
-  <img src="https://img.shields.io/github/stars/Divith123?label=Stars" alt="Total Stars"/> •
-  <a href="https://github.com/sponsors/Divith123"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor"/></a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Divith123&style=flat&color=blue"/>
+  <img alt="Followers" src="https://img.shields.io/github/followers/Divith123?label=Followers&style=social"/>
+  <img alt="Stars" src="https://img.shields.io/github/stars/Divith123?label=Stars"/>
+  <a href="https://github.com/sponsors/Divith123">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor"/>
+  </a>
 </p>
 
 ---
@@ -22,11 +24,15 @@
   </a>
 </p>
 
+---
+
 ## 🌱 Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Advanced%20AI%20Techniques-blue?style=for-the-badge&logo=tensorflow" alt="Advanced AI Techniques"/>
 </p>
+
+---
 
 ## 👯 Seeking Collaboration
 
@@ -34,11 +40,15 @@
   <img src="https://img.shields.io/badge/Collaboration-Welcome!%20%F0%9F%8C%8F-orange?style=for-the-badge&logo=github" alt="Seeking Collaboration"/>
 </p>
 
+---
+
 ## 💬 Ask Me About
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skills-Python%20%7C%20TensorFlow%20%7C%20Machine%20Learning%20%7C%20Android%20OS-lightgrey?style=for-the-badge" alt="Skills"/>
 </p>
+
+---
 
 ## 📫 How to Reach Me
 
@@ -46,11 +56,6 @@
   <a href="mailto:divithselvam23@gmail.com">
     <img src="https://img.shields.io/badge/Email-divithselvam23%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-</p>
-
-## 📄 My CV
-
-<p align="center">
   <a href="https://divith-portfolio.vercel.app/CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-Download-orange?style=for-the-badge&logo=pdf" alt="Download CV"/>
   </a>
@@ -74,7 +79,6 @@
 ## 🛠️ Languages and Tools
 
 ### Programming Languages
-
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
@@ -91,7 +95,6 @@
 </p>
 
 ### Frameworks and Libraries
-
 <p align="center">
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>
@@ -123,7 +126,6 @@
 </p>
 
 ### Tools and Platforms
-
 <p align="center">
   <a href="https://github.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
@@ -149,18 +151,66 @@
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60"/>
   </a>
-  <a href="https://www.electronjs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="60" height="60"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
+  <a href="https://www.jupyter.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="60" height="60"/>
   </a>
   <a href="https://www.apache.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="60" height="60"/>
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divith123&show_icons=true&hide_title=true&hide_border=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Divith123&theme=radical"/>
+</p>
+
+---
+
+## 💻 My Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Divith123&theme=radical&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+## 🏅 Recognition
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Divith123&theme=darkhub&no-frame=true&margin-w=5" alt="Trophies"/>
+</p>
+
+---
+
+## 📚 My GitHub Repositories
+
+<p align="center">
+  <a href="https://github.com/Divith123/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20More-brightgreen?style=for-the-badge&logo=github" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+## 🤖 AI Projects
+
+<p align="center">
+  <a href="https://github.com/Divith123/ZARA-AN-AI-BOT" target="_blank">
+    <img src="https://img.shields.io/badge/ZARA-AI%20BOT-blue?style=for-the-badge&logo=github" alt="ZARA AI BOT"/>
+  </a>
+  <a href="https://github.com/Divith123/ZARA-2.0" target="_blank">
+    <img src="https://img.shields.io/badge/ZARA%202.0-AI%20BOT-green?style=for-the-badge&logo=github" alt="ZARA 2.0"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Design%20Theme-By%20Divith%20Selvam-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
