@@ -2,7 +2,7 @@
   <span style="font-family: 'Roboto', sans-serif; color: #333;">Hello, <code>coders</code>!</span>
 </h1>
 <div align="center">
-  <h1 style="font-family: 'Arial', sans-serif; color: #2C3E50;">I'm Divith Selvam</h1>
+  <h3 style="font-family: 'Arial', sans-serif; color: #2C3E50;">I'm Divith Selvam</h3>
   <p style="font-family: 'Arial', sans-serif; color: #7F8C8D;">Data Scientist | AI Enthusiast | Android Developer</p>
   <img src="https://media.giphy.com/media/5zZP4i3TqHT7y/giphy.gif" width="150" alt="Earth Gif"/>
 </div>
