@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/5zZP4i3TqHT7y/giphy.gif" width="40" alt="Earth Gif"/>
   <span style="font-family: 'Roboto', sans-serif; color: #333;">Hello, <code>coders</code>!</span>
 </h1>
 <div align="center">
