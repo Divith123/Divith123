@@ -1,166 +1,98 @@
-<h1 align="center">Hi Devs 👋, I'm Divith S</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/3o7aD8B0y9D2I2Cm1O/giphy.gif" width="24px"/>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  This is Divith
+  <img src="https://media.giphy.com/media/3o6ZsYmW90VfT5gSPO/giphy.gif" width="40px" />
+</h1>
+<br/>
+<br/>
+<img align="right" height="250" width="400" alt="Profile Picture" src="https://camo.githubusercontent.com/8ad9fc576c41a83211c8cfdd57b0f98e85e1c7a1/68747470733a2f2f77702e7369672e6d656469612e636f6d2f4d656469612f66574e557171475230434b546d74662f776f6d656e742e676966"/>
+- 🔭 I’m currently working on **Android OS Customization and AI Development.**
+- 🌱 I’m currently learning **Advanced Data Science and Machine Learning techniques.**
+- 👯 I’m looking to collaborate on **AI Projects, Data Science Solutions, and Android Development.**
+- 💬 Ask me about **Data Science, Machine Learning, or Android Customizations!**
+- 😄 Pronouns: **He/Him/His.**
+- ⚡ Fun fact: **The best part of coding is solving complex problems and seeing your code come to life!**
 
-### 🔭 Currently Working On
-
-- **[SafeGuardAI](https://github.com/Divith123/SafeGuardAI)**: Enhancing privacy in ID documents with real-time AI/ML solutions.
-
-### 🌱 Currently Learning
-
-- **Advanced AI Techniques**: Deepening knowledge in TensorFlow and other cutting-edge AI technologies.
-
-### 👯 Seeking Collaboration
-
-- **Innovative AI Solutions**: Open to collaborating on groundbreaking AI projects.
-
-### 🤝 Looking for Assistance
-
-- **Real-Time AI/ML Problem Statements**: Interested in unique challenges and real-world applications.
-
-### 💬 Ask Me About
-
-- **Python**, **TensorFlow**, **Machine Learning**, **Android OS**
-
-### 📫 How to Reach Me
-
-- **Email**: [divithselvam23@gmail.com](mailto:divithselvam23@gmail.com)
-
-### 📄 My CV
-
-- **[Download CV](https://divith-portfolio.vercel.app/CV.pdf)**
-
----
-
-### 🌐 Connect with Me
-
+<br/>
+<br/>
 <p align="center">
-  <a href="https://linkedin.com/in/divith-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.leetcode.com/divith123" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F9DC5C?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=divith123&style=flat&color=blue"/> •   
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/divith123?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/divith123?label=Stars" alt="Total Stars"/> •
+  <a href="https://github.com/sponsors/divith123"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
----
-
-### 🛠️ Languages and Tools
-
-#### Programming Languages
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=divith123&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 <p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
-  </a>
+  <img height="150" width="150" src="https://media.giphy.com/media/l0Exsdrf2Tq5xuo20/giphy.gif"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divith123&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://media.giphy.com/media/l0Exsdrf2Tq5xuo20/giphy.gif"/>
 </p>
 
-#### Frameworks and Libraries
+<img align="left" height="300px" width="300px" alt="GIF" src="https://media.giphy.com/media/xUOrwfrjdOBpM5fuNq/giphy.gif"/>
+<br/>
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙇𝚂:**  
+<br/>
+<br/>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png"/></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/sql-2130446-1780911.png"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/dart-282582.png"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
+
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/github-170-1170108.png"/></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/azure-7-1175124.png"/></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/jupyter-283027.png"/></code>
+
+<br/>
+#
+<details open="">
+<summary>
+  📈 <strong>GitHub Stats :</strong>
+</summary>
+<br/>
 <p align="center">
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=divith123&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divith123&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
+<br/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divith123&theme=react-dark&hide_border=true&area=true)
+
+<h1>
+  Connect With Me
+  <img src="https://media.giphy.com/media/3o7TKLoj7s4KcP2SBW/giphy.gif" height="25px"/>
+</h1>
+<p align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/divith-s/" target="_blank">
+    <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"/></code>
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  <a href="https://twitter.com/divith123" target="_blank">
+    <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"/></code>
   </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/>
+  <a href="https://github.com/divith123">
+    <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/></code>
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
+  <a href="https://leetcode.com/divith023/" target="_blank">
+    <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg"/></code>
   </a>
 </p>
-
-#### Tools and Platforms
+<br/>
 <p align="center">
-  <a href="https://github.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <a href="https://www.hackerrank.com/divith123/" target="_blank">
+    <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg"/></code>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="50" height="50"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="50" height="50"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-  </a>
-  <a href="https://www.electronjs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="50" height="50"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="50" height="50"/>
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  </a>
-  <a href="https://www.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="50" height="50"/>
+  <a href="https://www.codechef.com/users/divith123" target="_blank">
+    <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg"/></code>
   </a>
 </p>
-
----
-
-### 🚀 Projects
-
-- **[ZARA-AN AI BOT](https://github.com/Divith123/ZARA)**: A Telegram chatbot using GPT-3.5 for generating text responses and managing multimedia content.
-- **[ZARA 2.0-AN AI BOT](https://github.com/Divith123/ZARA2.0)**: Integrating Gemini Pro and Gemini Vision Pro for enhanced capabilities.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divith123&show_icons=true&hide_title=true&hide=prs&theme=default" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divith123&layout=compact&theme=default" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divith123&theme=default" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-  <i>Made with ❤️ by Divith S</i>
-</p>
+<br/>
+<br/>
+<div align="center">
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+</div>
+#
+![footer](https://media.giphy.com/media/3o6ZsXUgqJ7kAeaDb2/giphy.gif)
