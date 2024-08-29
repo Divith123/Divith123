@@ -39,6 +39,9 @@
   <a href="https://www.leetcode.com/divith123" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F9DC5C?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
+  <a href="https://www.telegram.me/ninjaonsteroids" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 </div>
 
 <br/>
