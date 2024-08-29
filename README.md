@@ -17,36 +17,26 @@
   <a href="https://github.com/Divith123/SafeGuardAI" target="_blank">
     <img src="https://img.shields.io/badge/Project-SafeGuardAI-brightgreen?style=for-the-badge&logo=github" alt="SafeGuardAI"/>
   </a>
-</p>
-- **[SafeGuardAI](https://github.com/Divith123/SafeGuardAI)**: Enhancing privacy in ID documents with real-time AI/ML solutions.
 
 ## 🌱 Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Advanced%20AI%20Techniques-blue?style=for-the-badge&logo=tensorflow" alt="Advanced AI Techniques"/>
-</p>
-- **Advanced AI Techniques**: Deepening knowledge in TensorFlow and other cutting-edge AI technologies.
-
+  
 ## 👯 Seeking Collaboration
 
 <p align="center">
   <img src="https://img.shields.io/badge/Collaboration-Welcome!%20%F0%9F%8C%8F-orange?style=for-the-badge&logo=github" alt="Seeking Collaboration"/>
-</p>
-- **Innovative AI Solutions**: Open to collaborating on groundbreaking AI projects.
 
 ## 🤝 Looking for Assistance
 
 <p align="center">
   <img src="https://img.shields.io/badge/Assistance-Real%2DTime%20AI%2FML%20Challenges-yellow?style=for-the-badge" alt="Looking for Assistance"/>
-</p>
-- **Real-Time AI/ML Problem Statements**: Interested in unique challenges and real-world applications.
 
 ## 💬 Ask Me About
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skills-Python%20%7C%20TensorFlow%20%7C%20Machine%20Learning%20%7C%20Android%20OS-lightgrey?style=for-the-badge" alt="Skills"/>
-</p>
-- **Python**, **TensorFlow**, **Machine Learning**, **Android OS**
 
 ## 📫 How to Reach Me
 
@@ -54,7 +44,6 @@
   <a href="mailto:divithselvam23@gmail.com">
     <img src="https://img.shields.io/badge/Email-divithselvam23%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-</p>
 
 ## 📄 My CV
 
