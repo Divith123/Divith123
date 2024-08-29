@@ -1,6 +1,3 @@
-Sure! I'll provide a template for your GitHub README that incorporates your details, using online images and ensuring it reflects your specifics accurately. Here’s a revised version of the template based on your information:
-
-```html
 <h1 align="center">
   <img src="https://media.giphy.com/media/3o7aCSoErJkd8d6CA0/giphy.gif" width="24px"/>
   Hello, &lt;developers/&gt;!
