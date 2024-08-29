@@ -28,11 +28,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Collaboration-Welcome!%20%F0%9F%8C%8F-orange?style=for-the-badge&logo=github" alt="Seeking Collaboration"/>
 
-## 🤝 Looking for Assistance
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Assistance-Real%2DTime%20AI%2FML%20Challenges-yellow?style=for-the-badge" alt="Looking for Assistance"/>
-
 ## 💬 Ask Me About
 
 <p align="center">
