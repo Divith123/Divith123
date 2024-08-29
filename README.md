@@ -1,7 +1,3 @@
-Sure, I can combine the information from the two README files into a single README. Here’s a consolidated version:
-
----
-
 # Divith S - Portfolio
 
 ## 🌐 Socials
