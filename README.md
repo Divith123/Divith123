@@ -161,31 +161,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divith123&show_icons=true&hide_title=true&hide_border=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Divith123&theme=radical"/>
-</p>
-
----
-
-## 💻 My Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Divith123&theme=radical&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-## 🏅 Recognition
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Divith123&theme=darkhub&no-frame=true&margin-w=5" alt="Trophies"/>
-</p>
-
----
-
 ## 📚 My GitHub Repositories
 
 <p align="center">
@@ -205,12 +180,6 @@
   <a href="https://github.com/Divith123/ZARA-2.0" target="_blank">
     <img src="https://img.shields.io/badge/ZARA%202.0-AI%20BOT-green?style=for-the-badge&logo=github" alt="ZARA 2.0"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Design%20Theme-By%20Divith%20Selvam-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
