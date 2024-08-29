@@ -1,9 +1,11 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/5zZP4i3TqHT7y/giphy.gif" width="24px" alt="Earth Gif"/>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="https://media.giphy.com/media/5zZP4i3TqHT7y/giphy.gif" width="40" alt="Earth Gif"/>
+  <span style="font-family: 'Roboto', sans-serif; color: #333;">Hello, <code>coders</code>!</span>
 </h1>
 
-<h3 align="center">I'm Divith Selvam</h3>
+<h3 align="center" style="font-family: 'Roboto', sans-serif; color: #555;">
+  I'm Divith Selvam
+</h3>
 
 <p align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Divith123&style=flat&color=blue"/>
@@ -14,16 +16,45 @@
   </a>
 </p>
 
+---
+
+## 🔭 Currently Working On
+
 <p align="center">
   <a href="https://github.com/Divith123/SafeGuardAI" target="_blank">
     <img src="https://img.shields.io/badge/Project-SafeGuardAI-brightgreen?style=for-the-badge&logo=github" alt="SafeGuardAI"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Advanced%20AI%20Techniques-blue?style=for-the-badge&logo=tensorflow" alt="Advanced AI Techniques"/>
-  <img src="https://img.shields.io/badge/Collaboration-Welcome!%20%F0%9F%8C%8F-orange?style=for-the-badge&logo=github" alt="Seeking Collaboration"/>
 </p>
+
+---
+
+## 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Advanced%20AI%20Techniques-blue?style=for-the-badge&logo=tensorflow" alt="Advanced AI Techniques"/>
+</p>
+
+---
+
+## 👯 Seeking Collaboration
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Collaboration-Welcome!%20🌟-orange?style=for-the-badge&logo=github" alt="Seeking Collaboration"/>
+</p>
+
+---
+
+## 💬 Ask Me About
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skills-Python%20%7C%20TensorFlow%20%7C%20Machine%20Learning%20%7C%20Android%20OS-lightgrey?style=for-the-badge" alt="Skills"/>
+</p>
+
+---
+
+## 📫 How to Reach Me
+
+<p align="center">
   <a href="mailto:divithselvam23@gmail.com">
     <img src="https://img.shields.io/badge/Email-divithselvam23%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
@@ -31,6 +62,10 @@
     <img src="https://img.shields.io/badge/CV-Download-orange?style=for-the-badge&logo=pdf" alt="Download CV"/>
   </a>
 </p>
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/divith-s" target="_blank">
@@ -41,6 +76,11 @@
   </a>
 </p>
 
+---
+
+## 🛠️ Languages and Tools
+
+### Programming Languages
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
@@ -56,6 +96,7 @@
   </a>
 </p>
 
+### Frameworks and Libraries
 <p align="center">
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>
@@ -86,6 +127,7 @@
   </a>
 </p>
 
+### Tools and Platforms
 <p align="center">
   <a href="https://github.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
@@ -119,11 +161,19 @@
   </a>
 </p>
 
+---
+
+## 📚 My GitHub Repositories
+
 <p align="center">
   <a href="https://github.com/Divith123/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20More-brightgreen?style=for-the-badge&logo=github" alt="Portfolio"/>
   </a>
 </p>
+
+---
+
+## 🤖 AI Projects
 
 <p align="center">
   <a href="https://github.com/Divith123/ZARA-AN-AI-BOT" target="_blank">
@@ -134,15 +184,21 @@
   </a>
 </p>
 
+---
+
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divith123&show_icons=true&hide_title=true&hide=prs&theme=default" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divith123&layout=compact&theme=default" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=divith123&show_icons=true&hide_title=true&hide=prs&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divith123&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divith123&theme=default" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divith123&theme=dark" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
+---
+
+<p align="center" style="font-family: 'Roboto', sans-serif; color: #777;">
   <i>Made with ❤️ by ninjaonsteroids</i>
 </p>
