@@ -127,12 +127,6 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="50" height="50"/>
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   </a>
@@ -140,13 +134,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="50" height="50"/>
   </a>
 </p>
-
----
-
-### 🚀 Projects
-
-- **[ZARA-AN AI BOT](https://github.com/Divith123/ZARA)**: A Telegram chatbot using GPT-3.5 for generating text responses and managing multimedia content.
-- **[ZARA 2.0-AN AI BOT](https://github.com/Divith123/ZARA2.0)**: Integrating Gemini Pro and Gemini Vision Pro for enhanced capabilities.
 
 ---
 
