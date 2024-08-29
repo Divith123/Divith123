@@ -1,37 +1,44 @@
 <h1 align="center">
-  <img src="GIF/Earth.gif" width="24px"/>
+  <img src="GIF/Earth.gif" width="24px" alt="Earth GIF"/>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+</h1>
+
 <h3 align="center">I'm Divith Selvam</h3>
-  
+
 <p align="center">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Divith123&style=flat&color=blue"/> •   
-<!--   <a href="https://user-badge.committers.top/india_private/Divith123"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"/></a> • -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Divith123?label=Followers&style=social"/> •
-  <img src="https://img.shields.io/github/stars/Divith123?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
-  <a href="https://github.com/sponsors/Divith123"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Divith123&style=flat&color=blue"/> •
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Divith123?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/Divith123?label=Stars" alt="Total Stars"/> •
+  <a href="https://github.com/sponsors/Divith123"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor"/></a>
 </p>
-  
+
+---
+
 ## 🔭 Currently Working On
 
 <p align="center">
   <a href="https://github.com/Divith123/SafeGuardAI" target="_blank">
     <img src="https://img.shields.io/badge/Project-SafeGuardAI-brightgreen?style=for-the-badge&logo=github" alt="SafeGuardAI"/>
   </a>
+</p>
 
 ## 🌱 Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Advanced%20AI%20Techniques-blue?style=for-the-badge&logo=tensorflow" alt="Advanced AI Techniques"/>
-  
+</p>
+
 ## 👯 Seeking Collaboration
 
 <p align="center">
   <img src="https://img.shields.io/badge/Collaboration-Welcome!%20%F0%9F%8C%8F-orange?style=for-the-badge&logo=github" alt="Seeking Collaboration"/>
+</p>
 
 ## 💬 Ask Me About
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skills-Python%20%7C%20TensorFlow%20%7C%20Machine%20Learning%20%7C%20Android%20OS-lightgrey?style=for-the-badge" alt="Skills"/>
+</p>
 
 ## 📫 How to Reach Me
 
@@ -39,6 +46,7 @@
   <a href="mailto:divithselvam23@gmail.com">
     <img src="https://img.shields.io/badge/Email-divithselvam23%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
+</p>
 
 ## 📄 My CV
 
@@ -49,6 +57,7 @@
 </p>
 
 ---
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -65,6 +74,7 @@
 ## 🛠️ Languages and Tools
 
 ### Programming Languages
+
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
@@ -81,6 +91,7 @@
 </p>
 
 ### Frameworks and Libraries
+
 <p align="center">
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>
@@ -112,6 +123,7 @@
 </p>
 
 ### Tools and Platforms
+
 <p align="center">
   <a href="https://github.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
