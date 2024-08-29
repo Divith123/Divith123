@@ -154,9 +154,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divith123&" alt="divith123" />
 </p>
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divith123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Divith123&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divith123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
