@@ -4,7 +4,7 @@
 <div align="center">
   <h3 style="font-family: 'Arial', sans-serif; color: #2C3E50;">I'm Divith Selvam</h3>
   <p style="font-family: 'Arial', sans-serif; color: #7F8C8D;">Data Scientist | AI Enthusiast | Android Developer</p>
-  <img src="https://media.giphy.com/media/3o6Zt2xCqz0aSkwT8I/giphy.gif" width="150" alt="Earth Gif"/>
+  <img src="https://media.giphy.com/media/l0HlS5ZBi21Jj2aFG/giphy.gif" width="150" alt="Earth Gif"/>
 </div>
 
 <br/>
