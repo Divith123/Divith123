@@ -1,184 +1,177 @@
-<h1 align="center">Hi Devs 👋, I'm Divith S</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
-
+dont u have the potential to make this code for my deatils, I only want a template of the one I given you ( I didn't even mentioned bootstrap I knows , but shit you are referring it , only include my details , don't do shitty unwanted details ,k
+Completely modify every each details into mine only as I given my data already to you, use it 
+****Don't use local images , instead of that use online images **** , Completely change the code to my things ( as I feeded you about my details already)
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px"/>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+This is NINJa
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
+<br/>
+<br/>
+<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Spring Boot 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/JayantGoel001/JayantGoel001/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+<br/>
+<br/>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divith123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=blue"/> •   
+<!--   <a href="https://user-badge.committers.top/india_private/JayantGoel001"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"/></a> • -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
+  <a href="https://github.com/sponsors/JayantGoel001"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
-
+<!-- <p align="center">
+  <code>
+    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FJayantGoel001" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
+  </code>
+</p> -->
+#
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=divith123" alt="Trophies" />
-  </a>
+  <img height="150" width="150" src="WEBP/left.webp"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
-
+#
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<br/>
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+<br/>
+<br/>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/></code>
+<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"/></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
+#
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linuxarch/linuxarch.png"/></code>
+<br/>
+#
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br/>
 <p align="center">
-  <a href="https://twitter.com/DivithS" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/diviths?logo=twitter&style=flat&color=1DA1F2" alt="Twitter Follow" />
-  </a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
+</details>
+<br/>
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+<h4 align="center">
+</h4>  
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+<br/>
+#
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" />
+<br>
+<br>
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C399%20hrs%201%20min-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.9%20million%20lines%20of%20code-blue)
+**🐱 My GitHub Data** 
+> 📦  MB Used in GitHub's Storage 
+ > 
+> 🏆  Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 Public Repositories 
+ > 
+> 🔑  Private Repositories 
+ > 
+**I'm a Batman 🦉** 
 
----
-
-### 🔭 Currently Working On
-
-- **[SafeGuardAI](https://github.com/Divith123/SafeGuardAI)**: Enhancing privacy in ID documents with real-time AI/ML solutions.
-
-### 🌱 Currently Learning
-
-- **Advanced AI Techniques**: Deepening knowledge in TensorFlow and other cutting-edge AI technologies.
-
-### 👯 Seeking Collaboration
-
-- **Innovative AI Solutions**: Open to collaborating on groundbreaking AI projects.
-
-### 🤝 Looking for Assistance
-
-- **Real-Time AI/ML Problem Statements**: Interested in unique challenges and real-world applications.
-
-### 💬 Ask Me About
-
-- **Python**, **TensorFlow**, **Machine Learning**, **Android OS**
-
-### 📫 How to Reach Me
-
-- **Email**: [divithselvam23@gmail.com](mailto:divithselvam23@gmail.com)
-
-### 📄 My CV
-
-- **[Download CV](https://divith-portfolio.vercel.app/CV.pdf)**
-
----
-
-### 🌐 Connect with Me
-
+📊 **This Week I Spent My Time On** 
+🕑︎ Time Zone: Asia/Kolkata
+💬 Programming Languages: 
+Other                    32 hrs 34 mins      █████████████████████████   100.00 % 
+🔥 Editors: 
+Chrome                   32 hrs 34 mins      █████████████████████████   100.00 % 
+💻 Operating System: 
+Windows                  32 hrs 34 mins      █████████████████████████   100.00 % 
+LInux Arch                40 hrs 36 mins
+**I Mostly Code in Jupyter Notebook
+python                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+JavaScript               1 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+ Last Updated on 28/08/2024 02:34:05 UTC
+<!--END_SECTION:waka-->
 <p align="center">
-  <a href="https://linkedin.com/in/divith-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.leetcode.com/divith123" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F9DC5C?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
+  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
+  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
 </p>
-
----
-
-### 🛠️ Languages and Tools
-
-#### Programming Languages
+#
 <p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
-  </a>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>  
+  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
-
-#### Frameworks and Libraries
 <p align="center">
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
-  </a>
+  <img width="75%" src="metrics.svg"/>
+  <img src="metrics.detailed.svg" width="75%"/>
 </p>
-
-#### Tools and Platforms
+<h1>
+  Connect With Me
+  <img src="GIF/Handshake.gif" height="25px"/>
+</h1>
 <p align="center">
-  <a href="https://github.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <br>
+  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
+    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  <a href="https://www.facebook.com/jayantgoel001/" target="_blank">
+    <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
   </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
+    <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
   </a>
-  <a href="https://cloud.google.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="50" height="50"/>
+  <a href="https://twitter.com/JayantGoel001" target="_blank">
+    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
   </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="50" height="50"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-  </a>
-  <a href="https://www.electronjs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="50" height="50"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="50" height="50"/>
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  </a>
-  <a href="https://www.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="50" height="50"/>
-  </a>
+  <a href="https://dev.to/jayantgoel001">
+    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"/></code>
+  </a>     
 </p>
-
----
-
-### 🚀 Projects
-
-- **[ZARA-AN AI BOT](https://github.com/Divith123/ZARA)**: A Telegram chatbot using GPT-3.5 for generating text responses and managing multimedia content.
-- **[ZARA 2.0-AN AI BOT](https://github.com/Divith123/ZARA2.0)**: Integrating Gemini Pro and Gemini Vision Pro for enhanced capabilities.
-
----
-
-### 📈 GitHub Stats
-
+<br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divith123&show_icons=true&hide_title=true&hide=prs&theme=default" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divith123&layout=compact&theme=default" alt="Top Languages"/>
+  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
+    <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
+  </a>
+  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
+    <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
+  </a>
+  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
+    <code><img height="60" width="60" src="SVG/he.svg"/></code>
+  </a>
+  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
+    <code><img height="60" width="60" src="SVG/cc.svg"/></code>
+  </a>
+  <a href="https://leetcode.com/JayantGoel001/" target="_blank">
+    <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divith123&theme=default" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-  <i>Made with ❤️ by Divith S</i>
-</p>
+<br/>
+<br/>
+<div align="center">
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+</div>
+#
+![footer](WEBP/footer.webp)
