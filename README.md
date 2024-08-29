@@ -1,20 +1,22 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o7aCSoErJkd8d6CA0/giphy.gif" width="24px"/>
-  Hello, &lt;developers/&gt;!
-  <img src="https://media.giphy.com/media/26tP9Gk2CkFEG6bHq/giphy.gif" width="40px" />
+  <img src="https://media.giphy.com/media/3o7aD2v20dY8wOr7Jm/giphy.gif" width="24px"/>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="https://media.giphy.com/media/3o7aD2v20dY8wOr7Jm/giphy.gif" width="40px" />
 </h1>
 
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/3o7TKttTxq0USnFDKw/giphy.gif"/>
+<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 
-- 🔭 I’m currently working on **Spring Boot and Web Development.**
-- 🌱 I’m currently learning **DevOps and Competitive Programming.**
-- 👯 I’m looking to collaborate on **Android, Data Science, or Web Development.**
-- 💬 Ask Me About Anything [here](https://github.com/JayantGoel001/JayantGoel001/issues/1)! I am happy to help.
-- 😄 Pronouns: **He/Him/His.**
-- ⚡ Fun fact: **Best Part Of The Journey Is: *It Ends.***
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗
+
+𝚐 𝗼𝗻 **Spring Boot and Web Development.**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 **DevOps and Competitive Programming.**
+- 👯 𝙸’𝚖 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝚝𝗼 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲 𝗼𝗻 **Android, Data Science, or Web Development.**
+- 💬 𝗔𝘀𝗸 𝗠𝗲 𝗔𝗯𝗼𝘂𝘁 𝗔𝗻𝘆𝘁𝗵𝗶𝗻𝗴 [𝗵𝗲𝗿𝗲](https://github.com/JayantGoel001/JayantGoel001/issues/1)! I am happy to help.
+- 😄 𝗽𝗿𝗼𝗻𝗼𝘂𝗻𝘀: **He/Him/His.**
+- ⚡ 𝗙𝘂𝗻 𝗳𝗮𝗰𝘁: **Best Part Of The Journey Is: *It Ends.***
 
 <br/>
 <br/>
@@ -91,7 +93,6 @@
 
 <h4 align="center">
   
-```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
 @@       | |                                           @@
@@ -110,7 +111,7 @@
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
+
 
 </h4>  
 
@@ -118,6 +119,7 @@
 
 <br/>
 
+<details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>WakaTime Stats:</strong>
@@ -129,4 +131,15 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C399
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C399%20
+
+hrs%207%20mins-blue)
+<!--END_SECTION:waka-->
+
+</details>
+<br/>
+
+**𝙁𝙚𝙚𝙡 𝙛𝙧𝙚𝙚 𝙩𝙤 𝙧𝙚𝙖𝙘𝙝 𝙤𝙪𝙩 𝙩𝙤 𝙢𝙚 𝙛𝙤𝙧 𝙖𝙣𝙮 𝙃𝙚𝙡𝙥!**  
+**<a href="mailto:JayantGoel001@turing.com">📧 JayantGoel001@turing.com</a>**
+
+**𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙛𝙞𝙧𝙨𝙩𝙞𝙣𝙜!**  
