@@ -3,7 +3,14 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
 <h3 align="center">I'm Divith Selvam</h3>
   
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+<p align="center">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=blue"/> •   
+<!--   <a href="https://user-badge.committers.top/india_private/JayantGoel001"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"/></a> • -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
+  <a href="https://github.com/sponsors/JayantGoel001"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
+  
 ### 🔭 Currently Working On
 
 - **[SafeGuardAI](https://github.com/Divith123/SafeGuardAI)**: Enhancing privacy in ID documents with real-time AI/ML solutions.
