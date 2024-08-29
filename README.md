@@ -1,204 +1,95 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/5zZP4i3TqHT7y/giphy.gif" width="40" alt="Earth Gif"/>
-  <span style="font-family: 'Roboto', sans-serif; color: #333;">Hello, <code>coders</code>!</span>
-</h1>
+<div align="center">
+  <h1 style="font-family: 'Arial', sans-serif; color: #2C3E50;">Hi, I'm Divith Selvam</h1>
+  <p style="font-family: 'Arial', sans-serif; color: #7F8C8D;">Data Scientist | AI Enthusiast | Android Developer</p>
+  <img src="https://media.giphy.com/media/5zZP4i3TqHT7y/giphy.gif" width="150" alt="Earth Gif"/>
+</div>
 
-<h3 align="center" style="font-family: 'Roboto', sans-serif; color: #555;">
-  I'm Divith Selvam
-</h3>
+<br/>
 
-<p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Divith123&style=flat&color=blue"/>
-  <img alt="Followers" src="https://img.shields.io/github/followers/Divith123?label=Followers&style=social"/>
-  <img alt="Stars" src="https://img.shields.io/github/stars/Divith123?label=Stars"/>
+<div align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Divith123&style=flat&color=3498DB"/>
+  <img alt="Followers" src="https://img.shields.io/github/followers/Divith123?label=Followers&style=flat&color=3498DB"/>
+  <img alt="Stars" src="https://img.shields.io/github/stars/Divith123?label=Stars&style=flat&color=3498DB"/>
   <a href="https://github.com/sponsors/Divith123">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor"/>
   </a>
-</p>
+</div>
 
----
+<br/>
 
-## 🔭 Currently Working On
+## 🌟 About Me
 
-<p align="center">
-  <a href="https://github.com/Divith123/SafeGuardAI" target="_blank">
-    <img src="https://img.shields.io/badge/Project-SafeGuardAI-brightgreen?style=for-the-badge&logo=github" alt="SafeGuardAI"/>
-  </a>
-</p>
+- 🔭 Currently working on **SafeGuardAI** - an AI project focused on privacy-enhancing technologies.
+- 🌱 Currently learning **Advanced AI Techniques** to enhance my expertise in data science.
+- 👯 Looking to collaborate on **AI-driven projects** and **open-source contributions**.
+- 💬 Ask me about **Python**, **Machine Learning**, **TensorFlow**, and **Android OS Development**.
+- 📫 Reach me via [Email](mailto:divithselvam23@gmail.com) or download my [CV](https://divith-portfolio.vercel.app/CV.pdf).
 
----
-
-## 🌱 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Advanced%20AI%20Techniques-blue?style=for-the-badge&logo=tensorflow" alt="Advanced AI Techniques"/>
-</p>
-
----
-
-## 👯 Seeking Collaboration
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Collaboration-Welcome!%20🌟-orange?style=for-the-badge&logo=github" alt="Seeking Collaboration"/>
-</p>
-
----
-
-## 💬 Ask Me About
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Skills-Python%20%7C%20TensorFlow%20%7C%20Machine%20Learning%20%7C%20Android%20OS-lightgrey?style=for-the-badge" alt="Skills"/>
-</p>
-
----
-
-## 📫 How to Reach Me
-
-<p align="center">
-  <a href="mailto:divithselvam23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-divithselvam23%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://divith-portfolio.vercel.app/CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-Download-orange?style=for-the-badge&logo=pdf" alt="Download CV"/>
-  </a>
-</p>
-
----
+<br/>
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/divith-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.leetcode.com/divith123" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F9DC5C?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-F9DC5C?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-</p>
+</div>
 
----
+<br/>
 
 ## 🛠️ Languages and Tools
 
-### Programming Languages
-<p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  </a>
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
+</div>
 
-### Frameworks and Libraries
-<p align="center">
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="60" height="60"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="60" height="60"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="60" height="60"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+</div>
 
-### Tools and Platforms
-<p align="center">
-  <a href="https://github.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="60" height="60"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="60" height="60"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="60" height="60"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60"/>
-  </a>
-  <a href="https://www.jupyter.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="60" height="60"/>
-  </a>
-  <a href="https://www.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="60" height="60"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+</div>
 
----
+<br/>
 
-## 📚 My GitHub Repositories
+## 📚 My Projects
 
-<p align="center">
-  <a href="https://github.com/Divith123/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20More-brightgreen?style=for-the-badge&logo=github" alt="Portfolio"/>
+<div align="center">
+  <a href="https://github.com/Divith123/SafeGuardAI" target="_blank">
+    <img src="https://img.shields.io/badge/SafeGuardAI-AI%20Project-blue?style=flat&logo=github" alt="SafeGuardAI"/>
   </a>
-</p>
-
----
-
-## 🤖 AI Projects
-
-<p align="center">
   <a href="https://github.com/Divith123/ZARA-AN-AI-BOT" target="_blank">
-    <img src="https://img.shields.io/badge/ZARA-AI%20BOT-blue?style=for-the-badge&logo=github" alt="ZARA AI BOT"/>
+    <img src="https://img.shields.io/badge/ZARA-AI%20BOT-green?style=flat&logo=github" alt="ZARA AI BOT"/>
   </a>
   <a href="https://github.com/Divith123/ZARA-2.0" target="_blank">
-    <img src="https://img.shields.io/badge/ZARA%202.0-AI%20BOT-green?style=for-the-badge&logo=github" alt="ZARA 2.0"/>
+    <img src="https://img.shields.io/badge/ZARA%202.0-AI%20BOT-red?style=flat&logo=github" alt="ZARA 2.0"/>
   </a>
-</p>
+</div>
 
----
+<br/>
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divith123&show_icons=true&hide_title=true&hide=prs&theme=default" alt="GitHub Stats"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divith123&show_icons=true&theme=default" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divith123&layout=compact&theme=default" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divith123&theme=default" alt="GitHub Streak"/>
-</p>
+</div>
 
----
+<br/>
 
-<p align="center" style="font-family: 'Roboto', sans-serif; color: #777;">
-  <i>Made with ❤️ by ninjaonsteroids</i>
-</p>
+<div align="center" style="font-family: 'Arial', sans-serif; color: #BDC3C7;">
+  <i>Made with ❤️ by Divith Selvam</i>
+</div>
