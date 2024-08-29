@@ -1,179 +1,76 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Divith S | Data Scientist</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 0;
-            text-align: center;
-        }
-        header {
-            background: #222;
-            color: #fff;
-            padding: 2rem;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 1rem;
-        }
-        h1 {
-            font-size: 2.5rem;
-            margin-bottom: 0.5rem;
-        }
-        h2 {
-            font-size: 1.8rem;
-            margin-bottom: 1rem;
-        }
-        p {
-            font-size: 1rem;
-            line-height: 1.6;
-        }
-        .social-icons img {
-            width: 40px;
-            height: 40px;
-            margin: 0.5rem;
-            transition: transform 0.3s;
-        }
-        .social-icons img:hover {
-            transform: scale(1.1);
-        }
-        .skills img {
-            width: 40px;
-            height: 40px;
-            margin: 0.5rem;
-        }
-        .section {
-            background: #fff;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            margin: 1rem 0;
-            padding: 1.5rem;
-        }
-        .section h2 {
-            margin-top: 0;
-        }
-        .cta-button {
-            display: inline-block;
-            padding: 10px 20px;
-            font-size: 1rem;
-            color: #fff;
-            background-color: #007bff;
-            border: none;
-            border-radius: 5px;
-            text-decoration: none;
-            margin-top: 1rem;
-            transition: background-color 0.3s;
-        }
-        .cta-button:hover {
-            background-color: #0056b3;
-        }
-        footer {
-            padding: 1rem;
-            background: #222;
-            color: #fff;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <div class="container">
-            <h1>Hi Devs 👋, I'm Divith S</h1>
-            <h2>Aspiring Data Scientist</h2>
-            <p>Welcome to my GitHub profile! Here you can find all my projects and connect with me.</p>
-        </div>
-    </header>
+Sure, I can combine the information from the two README files into a single README. Here’s a consolidated version:
 
-    <div class="container">
-        <div class="section">
-            <h2>About Me</h2>
-            <p>
-                🔭 I’m currently working on <a href="https://github.com/Divith123/SafeGuardAI" class="cta-button">SafeGuardAI</a><br>
-                🌱 I’m currently learning <strong>Advanced AI Techniques, TensorFlow</strong><br>
-                👯 I’m looking to collaborate on <strong>Innovative AI Solutions</strong><br>
-                🤝 I’m looking for help with <strong>Real-Time AI/ML Problem Statement</strong><br>
-                👨‍💻 All of my projects are available at <a href="https://divith-portfolio.vercel.app" class="cta-button">My Portfolio</a><br>
-                💬 Ask me about <strong>Python, TensorFlow, Machine Learning, Android OS</strong><br>
-                📫 How to reach me: <a href="mailto:divithselvam23@gmail.com" class="cta-button">divithselvam23@gmail.com</a><br>
-                📄 Know about my experiences: <a href="https://divith-portfolio.vercel.app/CV.pdf" class="cta-button">CV</a>
-            </p>
-        </div>
+---
 
-        <div class="section">
-            <h2>Connect with Me</h2>
-            <div class="social-icons">
-                <a href="https://linkedin.com/in/divith-s" target="_blank">
-                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" />
-                </a>
-                <a href="https://www.leetcode.com/divith123" target="_blank">
-                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" />
-                </a>
-                <a href="https://twitter.com/divith123" target="_blank">
-                    <img src="https://img.shields.io/twitter/follow/divith123?logo=twitter&style=for-the-badge" alt="Twitter" />
-                </a>
-            </div>
-        </div>
+# Divith S - Portfolio
 
-        <div class="section">
-            <h2>Skills & Tools</h2>
-            <div class="skills">
-                <h3>Languages</h3>
-                <a href="https://www.python.org" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
-                </a>
-                <a href="https://www.java.com" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" />
-                </a>
-                <a href="https://www.javascript.com" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
-                </a>
-                <a href="https://www.cplusplus.com/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" />
-                </a>
+## 🌐 Socials
 
-                <h3>Frameworks & Tools</h3>
-                <a href="https://developer.android.com" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" />
-                </a>
-                <a href="https://www.tensorflow.org" target="_blank">
-                    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" />
-                </a>
-                <a href="https://firebase.google.com/" target="_blank">
-                    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" />
-                </a>
-                <a href="https://aws.amazon.com" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" />
-                </a>
+- [Discord](https://discord.gg/ninjaonsteroids) ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
+- [LinkedIn](https://linkedin.com/in/divith-s) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+- [Reddit](https://reddit.com/user/ninjaonsteroids) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)
 
-                <h3>Design & UI/UX</h3>
-                <a href="https://www.adobe.com/products/xd.html" target="_blank">
-                    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" />
-                </a>
-                <a href="https://www.figma.com/" target="_blank">
-                    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" />
-                </a>
-                <a href="https://www.photoshop.com/en" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" />
-                </a>
-            </div>
-        </div>
+## 💻 Tech Stack
 
-        <div class="section">
-            <h2>Statistics</h2>
-            <img src="https://github-readme-stats.vercel.app/api?username=divith123&show_icons=true&locale=en" alt="GitHub Stats" />
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=divith123" alt="Streak Stats" />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divith123&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-        </div>
-    </div>
+### Programming Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
-    <footer>
-        <p>&copy; 2024 Divith S | All Rights Reserved</p>
-    </footer>
-</body>
-</html>
+### Tools & Technologies
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![Oracle](https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+
+### Design
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
+
+### Data Science Libraries
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divith123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Divith123&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divith123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## ✍️ Random Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+## 🔝 Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Divith123&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+## 💰 You can help me by Donating
+[Buy Me a Coffee](https://buymeacoffee.com/ninjaonsteroids)
+
+---
+
+Feel free to adjust any sections or add more details as needed!
