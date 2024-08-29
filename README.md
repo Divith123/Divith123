@@ -151,5 +151,5 @@
 ---
 
 <p align="center">
-  <i>Made with ❤️ by Divith S</i>
+  <i>Made with ❤️ by ninjaonsteroids</i>
 </p>
