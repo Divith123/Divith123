@@ -23,7 +23,7 @@
 
 <br/>
 
-<h2>🌟 About Me</h2>
+<h2>About Me</h2>
 
 - 🔭 **Currently working on:** **SafeGuardAI** - an AI project focused on privacy-enhancing technologies.
 - 🌱 **Currently learning:** **Advanced AI Techniques** to enhance my expertise in data science.
@@ -33,7 +33,7 @@
 
 <br/>
 
-<h2>🌐 Connect with Me</h2>
+<h2>Connect with Me</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/divith-s" target="_blank">
@@ -49,7 +49,7 @@
 
 <br/>
 
-<h2>🛠️ Languages and Tools</h2>
+<h2>🛠Languages and Tools</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -73,7 +73,7 @@
 
 <br/>
 
-<h2>📚 My Projects</h2>
+<h2>My Projects</h2>
 
 <div align="center">
   <a href="https://github.com/Divith123/DeepSecure-AI" target="_blank">
@@ -89,7 +89,7 @@
 
 <br/>
 
-<h2>📈 GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divith123&show_icons=true&theme=default" alt="GitHub Stats"/>
