@@ -91,12 +91,13 @@
 
 <h2>GitHub Stats</h2>
 
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Divith123/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview (Dark Mode)" width="500" />
-  <img src="https://raw.githubusercontent.com/Divith123/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Languages (Dark Mode)" width="500" />
-  <img src="https://raw.githubusercontent.com/Divith123/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview (Light Mode)" width="500" />
-  <img src="https://raw.githubusercontent.com/Divith123/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="GitHub Languages (Light Mode)" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divith123&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divith123&layout=compact&theme=default" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divith123&theme=default" alt="GitHub Streak"/>
 </div>
+
 
 <br/>
 <div align="center">
