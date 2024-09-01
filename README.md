@@ -1,9 +1,10 @@
 <h1 align="center">
-  <span style="font-family: 'Roboto', sans-serif; color: #333;">Hello, <code>coders</code>!</span>
+  <span style="font-family: 'Roboto', sans-serif; color: #333;">👋✨ Hello, <code>coders</code>!</span>
 </h1>
+
 <div align="center">
-  <h3 style="font-family: 'Arial', sans-serif; color: #2C3E50;">I'm Divith Selvam</h3>
-  <p style="font-family: 'Arial', sans-serif; color: #7F8C8D;">Data Scientist | AI Enthusiast | Android Developer</p>
+  <h2 style="font-family: 'Arial', sans-serif; color: #2C3E50;">🚀 I'm <span style="color: #3498DB;">Divith Selvam</span></h2>
+  <p style="font-family: 'Arial', sans-serif; color: #7F8C8D;">🌟 Data Scientist | AI Enthusiast | Android Developer</p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnc5NzN5ZGU3eHoyMmRhdTU3bTZtcXJjdjE1bTgybHBhOG4xZXgxNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/mcJohbfGPATW8/giphy.gif" width="150" alt="Earth Gif"/>
 </div>
 
@@ -26,18 +27,19 @@
   </a>
 </div>
 
+<br/>
 
-## 🌟 About Me
+<h2>🌟 About Me</h2>
 
-- 🔭 Currently working on **SafeGuardAI** - an AI project focused on privacy-enhancing technologies.
-- 🌱 Currently learning **Advanced AI Techniques** to enhance my expertise in data science.
-- 👯 Looking to collaborate on **AI-driven projects** and **open-source contributions**.
-- 💬 Ask me about **Python**, **Machine Learning**, **TensorFlow**, and **Android OS Development**.
-- 📫 Reach me via [Email](mailto:divithselvam23@gmail.com) or download my [CV](https://divith-portfolio.vercel.app/CV.pdf).
+- 🔭 **Currently working on:** **SafeGuardAI** - an AI project focused on privacy-enhancing technologies.
+- 🌱 **Currently learning:** **Advanced AI Techniques** to enhance my expertise in data science.
+- 👯 **Looking to collaborate on:** **AI-driven projects** and **open-source contributions**.
+- 💬 **Ask me about:** **Python**, **Machine Learning**, **TensorFlow**, and **Android OS Development**.
+- 📫 **Reach me via** [Email](mailto:divithselvam23@gmail.com) **or download my** [CV](https://divith-portfolio.vercel.app/CV.pdf).
 
 <br/>
 
-## 🌐 Connect with Me
+<h2>🌐 Connect with Me</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/divith-s" target="_blank">
@@ -48,12 +50,12 @@
   </a>
   <a href="https://www.telegram.me/ninjaonsteroids" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
+  </a>
 </div>
 
 <br/>
 
-## 🛠️ Languages and Tools
+<h2>🛠️ Languages and Tools</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -77,7 +79,7 @@
 
 <br/>
 
-## 📚 My Projects
+<h2>📚 My Projects</h2>
 
 <div align="center">
   <a href="https://github.com/Divith123/SafeGuardAI" target="_blank">
@@ -93,7 +95,7 @@
 
 <br/>
 
-## 📈 GitHub Stats
+<h2>📈 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divith123&show_icons=true&theme=default" alt="GitHub Stats"/>
