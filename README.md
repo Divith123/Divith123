@@ -21,12 +21,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/ninjaonsteroids">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🥤&slug=ninjaonsteroids&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
-  </a>
-</div>
-
 <br/>
 
 <h2>🌟 About Me</h2>
@@ -104,6 +98,11 @@
 </div>
 
 <br/>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/ninjaonsteroids">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🥤&slug=ninjaonsteroids&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+  </a>
+</div>
 
 <div align="center" style="font-family: 'Arial', sans-serif; color: #BDC3C7;">
   <i>Made with ❤️ by Divith Selvam</i>
