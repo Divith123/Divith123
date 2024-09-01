@@ -25,11 +25,11 @@
 
 <h2>About Me</h2>
 
-- 🔭 **Currently working on:** **SafeGuardAI** - an AI project focused on privacy-enhancing technologies.
-- 🌱 **Currently learning:** **Advanced AI Techniques** to enhance my expertise in data science.
-- 👯 **Looking to collaborate on:** **AI-driven projects** and **open-source contributions**.
-- 💬 **Ask me about:** **Python**, **Machine Learning**, **TensorFlow**, and **Android OS Development**.
-- 📫 **Reach me via** [Email](mailto:divithselvam23@gmail.com) **or download my** [CV](https://divith-portfolio.vercel.app/CV.pdf).
+- **Currently working on:** **SafeGuardAI** - an AI project focused on privacy-enhancing technologies.
+- **Currently learning:** **Advanced AI Techniques** to enhance my expertise in data science.
+- **Looking to collaborate on:** **AI-driven projects** and **open-source contributions**.
+- **Ask me about:** **Python**, **Machine Learning**, **TensorFlow**, and **Android OS Development**.
+- **Reach me via** [Email](mailto:divithselvam23@gmail.com) **or download my** [CV](https://divith-portfolio.vercel.app/CV.pdf).
 
 <br/>
 
@@ -49,7 +49,7 @@
 
 <br/>
 
-<h2>🛠Languages and Tools</h2>
+<h2>Languages and Tools</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
