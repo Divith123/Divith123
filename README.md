@@ -92,40 +92,10 @@
 <h2>GitHub Stats</h2>
 
 <div align="center">
-  <!-- GitHub Profile Stats -->
-  <a href="https://github.com/Divith123">
-    <img src="https://github-readme-stats.vercel.app/api?username=Divith123&show_icons=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats"/>
-  </a>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/Divith123">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divith123&layout=compact&theme=default" alt="Top Languages"/>
-  </a>
-
-  <!-- GitHub Streak -->
-  <a href="https://github.com/Divith123">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divith123&theme=default" alt="GitHub Streak"/>
-  </a>
-
-  <!-- GitHub Activity Graph -->
-  <a href="https://github.com/Divith123">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Divith123&theme=default" alt="GitHub Activity Graph"/>
-  </a>
-
-  <!-- GitHub Metrics -->
-  <a href="https://github.com/Divith123">
-    <img src="https://metrics.lecoq.io/Divith123?template=classic&languages=1&habits=1&config.timezone=Europe%2FBerlin" alt="GitHub Metrics"/>
-  </a>
-
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/Divith123">
-    <img src="https://github-profile-trophy.vercel.app/?username=Divith123&theme=flat&no-frame=true" alt="GitHub Trophies"/>
-  </a>
-
-  <!-- GitHub Contributions -->
-  <a href="https://github.com/Divith123">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=Divith123&theme=default" alt="GitHub Contributions"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Divith123/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview (Dark Mode)" width="500" />
+  <img src="https://raw.githubusercontent.com/Divith123/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Languages (Dark Mode)" width="500" />
+  <img src="https://raw.githubusercontent.com/Divith123/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview (Light Mode)" width="500" />
+  <img src="https://raw.githubusercontent.com/Divith123/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="GitHub Languages (Light Mode)" width="500" />
 </div>
 
 <br/>
