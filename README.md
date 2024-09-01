@@ -93,9 +93,10 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divith123&show_icons=true&theme=default" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divith123&layout=compact&theme=default" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divith123&theme=default" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=divith123&show_icons=true&count_private=true&hide_title=true&theme=gruvbox&hide_border=true&card_width=600" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divith123&layout=compact&theme=gruvbox&hide_border=true&card_width=600" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divith123&theme=gruvbox&hide_border=true&card_width=600" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=divith123&repo=your-repo-name&theme=gruvbox&hide_border=true&card_width=600" alt="Pinned Repositories"/>
 </div>
 
 
