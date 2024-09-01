@@ -106,6 +106,26 @@
   <a href="https://github.com/Divith123">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divith123&theme=default" alt="GitHub Streak"/>
   </a>
+
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/Divith123">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Divith123&theme=default" alt="GitHub Activity Graph"/>
+  </a>
+
+  <!-- GitHub Metrics -->
+  <a href="https://github.com/Divith123">
+    <img src="https://metrics.lecoq.io/Divith123?template=classic&languages=1&habits=1&config.timezone=Europe%2FBerlin" alt="GitHub Metrics"/>
+  </a>
+
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/Divith123">
+    <img src="https://github-profile-trophy.vercel.app/?username=Divith123&theme=flat&no-frame=true" alt="GitHub Trophies"/>
+  </a>
+
+  <!-- GitHub Contributions -->
+  <a href="https://github.com/Divith123">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=Divith123&theme=default" alt="GitHub Contributions"/>
+  </a>
 </div>
 
 <br/>
