@@ -76,8 +76,8 @@
 <h2>📚 My Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/Divith123/SafeGuardAI" target="_blank">
-    <img src="https://img.shields.io/badge/SafeGuardAI-AI%20Project-blue?style=flat&logo=github" alt="SafeGuardAI"/>
+  <a href="https://github.com/Divith123/DeepSecure-AI" target="_blank">
+    <img src="https://img.shields.io/badge/DeepSecure-AI%20Project-blue?style=flat&logo=github" alt="DeepSecure-AI"/>
   </a>
   <a href="https://github.com/Divith123/ZARA-AN-AI-BOT" target="_blank">
     <img src="https://img.shields.io/badge/ZARA-AI%20BOT-green?style=flat&logo=github" alt="ZARA AI BOT"/>
