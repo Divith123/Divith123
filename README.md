@@ -96,6 +96,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divith123&layout=compact&theme=default" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divith123&theme=default" alt="GitHub Streak"/>
 </div>
+![GITHUB Stats](https://raw.githubusercontent.com/Divith123/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Divith123/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <br/>
 <div align="center">
