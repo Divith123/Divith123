@@ -25,7 +25,7 @@
 
 <h2>About Me</h2>
 
-- **Currently working on:** **SafeGuardAI** - an AI project focused on privacy-enhancing technologies.
+- **Currently working on:** **DeepSecure-AI** - an AI project focused on privacy-enhancing technologies.
 - **Currently learning:** **Advanced AI Techniques** to enhance my expertise in data science.
 - **Looking to collaborate on:** **AI-driven projects** and **open-source contributions**.
 - **Ask me about:** **Python**, **Machine Learning**, **TensorFlow**, and **Android OS Development**.
