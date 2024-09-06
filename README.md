@@ -1,10 +1,10 @@
 <h1 align="center">
-  <span style="font-family: 'Roboto', sans-serif; color: #333;"> Hello, <code>coders</code>!</span>
+  <span style="font-family: 'Poppins', sans-serif; color: #333;"> Hello, <code>coders</code>!</span>
 </h1>
 
 <div align="center">
-  <h2 style="font-family: 'Arial', sans-serif; color: #2C3E50;"> I'm <span style="color: #3498DB;">Divith Selvam</span></h2>
-  <p style="font-family: 'Arial', sans-serif; color: #7F8C8D;"> Data Scientist | AI Enthusiast | Android Developer</p>
+  <h2 style="font-family: 'Poppins', sans-serif; color: #2C3E50;"> I'm <span style="color: #3498DB;">Divith Selvam</span></h2>
+  <p style="font-family: 'Poppins', sans-serif; color: #7F8C8D;"> Data Scientist | AI Enthusiast | Android Developer</p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnc5NzN5ZGU3eHoyMmRhdTU3bTZtcXJjdjE1bTgybHBhOG4xZXgxNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/mcJohbfGPATW8/giphy.gif" width="150" alt="Earth Gif"/>
 </div>
 
@@ -104,6 +104,6 @@
   </a>
 </div>
 
-<div align="center" style="font-family: 'Arial', sans-serif; color: #BDC3C7;">
+<div align="center" style="font-family: 'Poppins', sans-serif; color: #BDC3C7;">
   <i>Made with ❤️ by Divith Selvam</i>
 </div>
