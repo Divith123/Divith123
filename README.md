@@ -39,7 +39,7 @@
   <a href="https://linkedin.com/in/divith-s" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.leetcode.com/divith123" target="_blank">
+  <a href="https://www.leetcode.com/divith023" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F9DC5C?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.telegram.me/ninjaonsteroids" target="_blank">
