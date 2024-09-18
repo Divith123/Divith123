@@ -98,10 +98,10 @@
 </div>
 
 <h2>Top Contributed Repo</h2>
-<br/>
 <div align="center">
-![](https://github-contributor-stats.vercel.app/api?username=Divith123&limit=5&theme=default&combine_all_yearly_contributions=true)
+  <img src="https://github-contributor-stats.vercel.app/api?username=Divith123&limit=5&theme=default&combine_all_yearly_contributions=true" alt="Top Contributed Repo Stats">
 </div>
+
 
 <br/>
 <div align="center">
