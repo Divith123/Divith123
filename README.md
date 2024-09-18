@@ -8,6 +8,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnc5NzN5ZGU3eHoyMmRhdTU3bTZtcXJjdjE1bTgybHBhOG4xZXgxNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/mcJohbfGPATW8/giphy.gif" width="150" alt="Earth Gif"/>
 </div>
 
+![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=NINJa&text2=💖%20A%20Passionate%20Coder,Developer%20and%20Debugger&width=900&height=400)
+
 <br/>
 
 <div align="center">
