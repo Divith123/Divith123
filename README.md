@@ -9,7 +9,7 @@
 </div>
 
 
-<br/>
+<b/>
 
 <div align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Divith123&style=flat&color=3498DB"/>
