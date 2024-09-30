@@ -8,8 +8,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnc5NzN5ZGU3eHoyMmRhdTU3bTZtcXJjdjE1bTgybHBhOG4xZXgxNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/mcJohbfGPATW8/giphy.gif" width="150" alt="Earth Gif"/>
 </div>
 
-<iframe src="https://github.com/sponsors/Divith123/card" title="Sponsor Divith123" height="225" width="600" style="border: 0;"></iframe>
-
 <br/>
 
 <div align="center">
