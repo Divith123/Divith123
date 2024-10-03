@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="font-family: 'Poppins', sans-serif; color: #333;"> Hello, <code>coders</code>!</span>
+  <span style="font-family: 'Poppins', sans-serif; color: #333;">Welcome to my profile, <code>coders</code>!</span>
 </h1>
 
 <div align="center">
@@ -21,19 +21,18 @@
 
 <br/>
 
+<h2 align="center">About Me</h2>
+
+- 🌍 **Location:** Global Citizen
+- 🛠️ **Currently working on:** **DeepSecure-AI** – an AI project focused on privacy-enhancing technologies.
+- 📚 **Learning:** Advanced AI Techniques to expand my knowledge in data science.
+- 💡 **Looking to collaborate on:** AI-driven projects and open-source contributions.
+- 🔗 **Ask me about:** Python, Machine Learning, TensorFlow, Android OS Development.
+- 📧 **Reach me via:** [Email](mailto:divithselvam23@gmail.com) | [CV](https://divith-portfolio.vercel.app/CV.pdf)
+
 <br/>
 
-<h2>About Me</h2>
-
-- **Currently working on:** **DeepSecure-AI** - an AI project focused on privacy-enhancing technologies.
-- **Currently learning:** **Advanced AI Techniques** to enhance my expertise in data science.
-- **Looking to collaborate on:** **AI-driven projects** and **open-source contributions**.
-- **Ask me about:** **Python**, **Machine Learning**, **TensorFlow**, and **Android OS Development**.
-- **Reach me via** [Email](mailto:divithselvam23@gmail.com) **or download my** [CV](https://divith-portfolio.vercel.app/CV.pdf).
-
-<br/>
-
-<h2>Connect with Me</h2>
+<h2 align="center">Connect with Me</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/divith-s" target="_blank">
@@ -49,7 +48,7 @@
 
 <br/>
 
-<h2>Languages and Tools</h2>
+<h2 align="center">Languages & Tools</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -73,7 +72,7 @@
 
 <br/>
 
-<h2>My Projects</h2>
+<h2 align="center">My Projects</h2>
 
 <div align="center">
   <a href="https://github.com/Divith123/DeepSecure-AI" target="_blank">
@@ -89,7 +88,7 @@
 
 <br/>
 
-<h2>GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divith123&show_icons=true&theme=default" alt="GitHub Stats"/>
@@ -98,9 +97,10 @@
 </div>
 
 <br/>
+
 <div align="center">
   <a href="https://www.buymeacoffee.com/ninjaonsteroids">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🥤&slug=ninjaonsteroids&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=🥤&slug=ninjaonsteroids&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
   </a>
 </div>
 
