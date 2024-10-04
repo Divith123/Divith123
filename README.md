@@ -23,12 +23,12 @@
 
 <h2 align="center">About Me</h2>
 
-- 🌍 **Location:** Global Citizen
-- 🛠️ **Currently working on:** **DeepSecure-AI** – an AI project focused on privacy-enhancing technologies.
-- 📚 **Learning:** Advanced AI Techniques to expand my knowledge in data science.
-- 💡 **Looking to collaborate on:** AI-driven projects and open-source contributions.
-- 🔗 **Ask me about:** Python, Machine Learning, TensorFlow, Android OS Development.
-- 📧 **Reach me via:** [Email](mailto:divithselvam23@gmail.com) | [CV](https://divith-portfolio.vercel.app/CV.pdf)
+- **Location:** Global Citizen
+- **Currently working on:** **DeepSecure-AI** – an AI project focused on privacy-enhancing technologies.
+- **Learning:** Advanced AI Techniques to expand my knowledge in data science.
+- **Looking to collaborate on:** AI-driven projects and open-source contributions.
+- **Ask me about:** Python, Machine Learning, TensorFlow, Android OS Development.
+- **Reach me via:** [Email](mailto:divithselvam23@gmail.com) | [CV](https://divith-portfolio.vercel.app/CV.pdf)
 
 <br/>
 
