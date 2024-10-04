@@ -19,15 +19,6 @@
   </a>
 </div>
 
-<br/>
-
-<!-- Inserted iframe here -->
-<div align="center">
-  <iframe src="https://github.com/sponsors/Divith123/card" title="Sponsor Divith123" height="225" width="600" style="border: 0;"></iframe>
-</div>
-
-<br/>
-
 <h2 align="center">About Me</h2>
 
 - **Location:** Global Citizen
