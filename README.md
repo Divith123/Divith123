@@ -9,6 +9,7 @@
   <!-- Image with hover animation -->
   <img src="https://github.com/Divith123/Divith123/raw/main/header.png" width="400" alt="Header Image" style="border-radius: 100px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
+<div style="text-align: center;">
 
 ```bash
 ███▄▄▄▄    ▄█  ███▄▄▄▄        ▄█    ▄████████ 
@@ -20,7 +21,8 @@
 ███   ███ ███  ███   ███     ███   ███    ███ 
  ▀█   █▀  █▀    ▀█   █▀  █▄ ▄███   ███    █▀  
                          ▀▀▀▀▀▀               
-```
+
+</div> ```
 
 <br/>
 
