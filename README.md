@@ -7,9 +7,15 @@
   <h2 style="font-family: 'Poppins', sans-serif; color: #2C3E50; font-size: 28px;">I'm <span style="color: #3498DB;">Divith Selvam</span></h2>
   <p style="font-family: 'Poppins', sans-serif; color: #7F8C8D; font-size: 18px;">Data Scientist | AI Enthusiast | Android Developer</p>
   
-  <!-- Image with hover animation -->
-  <img src="https://github.com/Divith123/Divith123/raw/main/header.png" width="400" alt="Header Image" style="border-radius: 100px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+ <!-- Image with hover animation -->
+<div align="center">
+  <img src="https://github.com/Divith123/Divith123/raw/main/header.png" 
+       alt="Header Image" 
+       style="border-radius: 100px; transition: transform 0.3s ease-in-out; width: 100%; max-width: 800px;" 
+       onmouseover="this.style.transform='scale(1.05)'" 
+       onmouseout="this.style.transform='scale(1)'"/>
 </div>
+
 
 <div align="center">
 <pre>
