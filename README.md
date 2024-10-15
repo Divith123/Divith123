@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <span style="font-family: 'Poppins', sans-serif; color: #333;">Hello <code>coders</code>! 👋</span>
 </h1>
@@ -9,8 +10,9 @@
   <!-- Image with hover animation -->
   <img src="https://github.com/Divith123/Divith123/raw/main/header.png" width="400" alt="Header Image" style="border-radius: 100px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
-<div style="text-align: center;">
 
+<div align="center">
+<pre>
 ```bash
 ███▄▄▄▄    ▄█  ███▄▄▄▄        ▄█    ▄████████ 
 ███▀▀▀██▄ ███  ███▀▀▀██▄     ███   ███    ███ 
@@ -21,7 +23,9 @@
 ███   ███ ███  ███   ███     ███   ███    ███ 
  ▀█   █▀  █▀    ▀█   █▀  █▄ ▄███   ███    █▀  
                          ▀▀▀▀▀▀               
-``` 
+```
+</pre>
+</div>
 
 <br/>
 
@@ -90,26 +94,11 @@
 <h2 align="center" style="font-family: 'Poppins', sans-serif; color: #2C3E50;">My Projects</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://github.com/Divith123/DeepSecure-AI" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/DeepSecure-AI%20Project-blue?style=flat&logo=github" alt="DeepSecure-AI" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://img.shields.io/badge/DeepSecure-AI%20Project-blue?style=flat&logo=github" alt="DeepSecure-AI" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'
+
+"/>
   </a>
-  <a href="https://github.com/Divith123/ZARA-AN-AI-BOT" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/ZARA-AI%20BOT-green?style=flat&logo=github" alt="ZARA AI BOT" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://github.com/Divith123/ZARA-2.0" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/ZARA%202.0-AI%20BOT-red?style=flat&logo=github" alt="ZARA 2.0" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://github.com/Divith123/AI-Bot" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/AI%20Chatbot-orange?style=flat&logo=github" alt="AI Chatbot" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
-
-<br/>
-
-<!-- GitHub Stats & Graph -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divith123&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" style="border-radius: 8px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divith123&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="border-radius: 8px;"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Divith123&bg_color=1a1b27&color=fff&line=f85d7f&point=ffb300&area=true&hide_border=true" alt="Activity Graph" style="border-radius: 8px;"/>
-</div>
-
-<br/>
-
-<!-- Footer -->
-<h4 align="center" style="font-family: 'Poppins', sans-serif; color: #7F8C8D;">Let's create a better future together!</h4>
