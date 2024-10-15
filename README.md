@@ -7,8 +7,20 @@
   <p style="font-family: 'Poppins', sans-serif; color: #7F8C8D; font-size: 18px;">Data Scientist | AI Enthusiast | Android Developer</p>
   
   <!-- Image with hover animation -->
-  <img src="https://github.com/Divith123/Divith123/raw/main/header.png" width="400" alt="Header Image" style="border-radius: 8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://github.com/Divith123/Divith123/raw/main/header.png" width="400" alt="Header Image" style="border-radius: 100px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
+
+```bash
+███▄▄▄▄    ▄█  ███▄▄▄▄        ▄█    ▄████████ 
+███▀▀▀██▄ ███  ███▀▀▀██▄     ███   ███    ███ 
+███   ███ ███▌ ███   ███     ███   ███    ███ 
+███   ███ ███▌ ███   ███     ███   ███    ███ 
+███   ███ ███▌ ███   ███     ███ ▀███████████ 
+███   ███ ███  ███   ███     ███   ███    ███ 
+███   ███ ███  ███   ███     ███   ███    ███ 
+ ▀█   █▀  █▀    ▀█   █▀  █▄ ▄███   ███    █▀  
+                         ▀▀▀▀▀▀               
+```
 
 <br/>
 
