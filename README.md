@@ -12,8 +12,6 @@
   <img src="https://github.com/Divith123/Divith123/raw/main/header.png" 
        alt="Header Image" 
        style="border-radius: 100px; transition: transform 0.3s ease-in-out; width: 100%; max-width: 800px;" 
-       onmouseover="this.style.transform='scale(1.05)'" 
-       onmouseout="this.style.transform='scale(1)'"/>
 </div>
 
 
