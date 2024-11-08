@@ -8,12 +8,6 @@
   <p style="font-family: 'Poppins', sans-serif; color: #7F8C8D; font-size: 18px;">Data Scientist | AI Enthusiast | Android Developer</p>
   
  <!-- Image with hover animation -->
-<div align="center">
-  <img src="https://github.com/Divith123/Divith123/raw/main/header.png" 
-       alt="Header Image" 
-       style="border-radius: 100px; transition: transform 0.3s ease-in-out; width: 100%; max-width: 800px;" 
-</div>
-
 
 <div align="center">
 <pre>
