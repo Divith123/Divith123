@@ -56,7 +56,6 @@
     <li><strong>Learning:</strong> Advanced AI Techniques to expand my knowledge in data science.</li>
     <li><strong>Looking to collaborate on:</strong> AI-driven projects and open-source contributions.</li>
     <li><strong>Ask me about:</strong> Python, Machine Learning, TensorFlow, Android OS Development.</li>
-    <li><strong>Reach me via:</strong> [Email](mailto:divithselvam23@gmail.com) </li>
   </ul>
 </div>
 
