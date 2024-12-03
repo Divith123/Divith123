@@ -25,20 +25,6 @@
 </pre>
 </div>
 
-<!-- About Me Section with clean list -->
-<h2 align="center" style="font-family: 'Poppins', sans-serif; color: #2C3E50;">About Me</h2>
-<div>
-  <ul style="list-style: none; font-family: 'Poppins', sans-serif; color: #7F8C8D; font-size: 16px;">
-    <li><strong>Location:</strong> Global Citizen </li>
-    <li><strong>Currently working on:</strong> <em>DeepSecure-AI</em> – An AI project focused on privacy-enhancing technologies.</li>
-    <li><strong>Learning:</strong> Advanced AI Techniques to expand my knowledge in data science.</li>
-    <li><strong>Looking to collaborate on:</strong> AI-driven projects and open-source contributions.</li>
-    <li><strong>Ask me about:</strong> Python, Machine Learning, TensorFlow, Android OS Development.</li>
-  </ul>
-</div>
-
-<br/>
-
 <!-- Social Links with hover animation -->
 <h2 align="center" style="font-family: 'Poppins', sans-serif; color: #2C3E50;">Connect with Me</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
