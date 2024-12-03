@@ -25,20 +25,6 @@
 </pre>
 </div>
 
-<br/>
-
-<!-- Add badges in an organized, centered flexbox container -->
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Divith123&style=flat&color=3498DB"/>
-  <img alt="Followers" src="https://img.shields.io/github/followers/Divith123?label=Followers&style=flat&color=3498DB"/>
-  <img alt="Stars" src="https://img.shields.io/github/stars/Divith123?label=Stars&style=flat&color=3498DB"/>
-  <a href="https://github.com/sponsors/Divith123">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor"/>
-  </a>
-</div>
-
-<br/>
-
 <!-- About Me Section with clean list -->
 <h2 align="center" style="font-family: 'Poppins', sans-serif; color: #2C3E50;">About Me</h2>
 <div>
