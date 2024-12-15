@@ -12,7 +12,7 @@
 <p>
   <a href="https://www.buymeacoffee.com/ninjaonsteroids"><img src="https://img.shields.io/badge/-Support%20Me-FFDD00?style=flat-square&labelColor=FFDD00&logo=BuyMeACoffee&link=https://www.buymeacoffee.com/ninjaonsteroids" alt="Support Me Badge"></a>
 </p>
-<p>🍌 Don't forget to get some Potassium 🍌</p>
+<p>Don't forget to get some Potassium</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
