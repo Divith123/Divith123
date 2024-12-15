@@ -1,11 +1,11 @@
 <h2>Hey 👋, I'm <a href="https://ninjaonsteroids.me/">Ninja</a></h2>
 <p>I'm CEO & Founder at <strong><a href="https://github.com/OneDot-Communications">OneDot Communications</a></strong> based in India. I'm passionate about technology and enjoy tackling complex problems through my work. My interests include Data Science, Machine Learning, and Android Development. When I'm not coding, I focus on Android OS customization and creating custom operating systems.</p>
 <p>
-  <a href="https://dev.to/divithselvam"><img src="https://img.shields.io/badge/-@divithselvam-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=dev.to&link=https://dev.to/divithselvam" alt="DevTo Badge"></a>
   <a href="https://linkedin.com/in/divith-s"><img src="https://img.shields.io/badge/-@divith%20s-0A66C2?style=flat-square&labelColor=0A66C2&logo=LinkedIn&link=https://linkedin.com/in/divith-s" alt="LinkedIn Badge"></a>
+  <a href="https://www.leetcode.com/divith23"><img src="https://img.shields.io/badge/-@divith23-FFA116?style=flat-square&labelColor=FFA116&logo=LeetCode&link=https://www.leetcode.com/divith23" alt="LeetCode Badge"></a>
+  <a href="https://dev.to/divithselvam"><img src="https://img.shields.io/badge/-@divithselvam-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=dev.to&link=https://dev.to/divithselvam" alt="DevTo Badge"></a>
   <a href="https://instagram.com/ninja_qiqi"><img src="https://img.shields.io/badge/-@ninja_qiqi-E4405F?style=flat-square&labelColor=E4405F&logo=Instagram&link=https://instagram.com/ninja_qiqi" alt="Instagram Badge"></a>
   <a href="https://www.youtube.com/c/divithselvam"><img src="https://img.shields.io/badge/-@divithselvam-FF0000?style=flat-square&labelColor=FF0000&logo=YouTube&link=https://www.youtube.com/c/divithselvam" alt="YouTube Badge"></a>
-  <a href="https://www.leetcode.com/divith23"><img src="https://img.shields.io/badge/-@divith23-FFA116?style=flat-square&labelColor=FFA116&logo=LeetCode&link=https://www.leetcode.com/divith23" alt="LeetCode Badge"></a>
   <a href="https://discord.gg/ninja_on_steroids"><img src="https://img.shields.io/badge/-@ninja_on_steroids-7289DA?style=flat-square&labelColor=7289DA&logo=Discord&link=https://discord.gg/ninja_on_steroids" alt="Discord Badge"></a>
 </p>
 
