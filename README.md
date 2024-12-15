@@ -1,12 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://ninjaonsteroids.me/">Ninja</a></h2>
 <p>I'm CEO & Founder at <strong><a href="https://github.com/OneDot-Communications">OneDot Communications</a></strong> based in India. I'm passionate about technology and enjoy tackling complex problems through my work. My interests include Data Science, Machine Learning, and Android Development. When I'm not coding, I focus on Android OS customization and creating custom operating systems.</p>
-[![Follow on LinkedIn](https://img.shields.io/badge/-Follow%20on%20LinkedIn-0A66C2?style=flat-square&logo=LinkedIn)](https://linkedin.com/in/divith-s)
-[![Follow on GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/Divith123)
-[![Follow on Telegram](https://img.shields.io/badge/-Follow%20on%20Telegram-0088CC?style=flat-square&logo=Telegram)](https://t.me/ninjaonsteroids)
-[![Send Mail](https://img.shields.io/badge/-Send%20Mail-D44638?style=flat-square&logo=Mail)](mailto:divithselvam23@gmail.com)
-[![Follow on Reddit](https://img.shields.io/badge/-Follow%20on%20Reddit-FF4500?style=flat-square&logo=Reddit)](https://www.reddit.com/user/xx_dv_xx)
-[![Follow on Dev Community](https://img.shields.io/badge/-Follow%20on%20Dev%20Community-0A0A0A?style=flat-square&logo=dev.to)](https://dev.to/divithselvam)
-[![Support Me](https://img.shields.io/badge/-Support%20Me-FFDD00?style=flat-square&logo=BuyMeACoffee)](https://www.buymeacoffee.com/ninjaonsteroids)
+<p><a href="https://stanleylim.me"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
+<p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
