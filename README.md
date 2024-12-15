@@ -1,6 +1,17 @@
 <h2>Hey 👋, I'm <a href="https://ninjaonsteroids.me/">Ninja</a></h2>
 <p>I'm CEO & Founder at <strong><a href="https://github.com/OneDot-Communications">OneDot Communications</a></strong> based in India. I'm passionate about technology and enjoy tackling complex problems through my work. My interests include Data Science, Machine Learning, and Android Development. When I'm not coding, I focus on Android OS customization and creating custom operating systems.</p>
-<p><a href="https://stanleylim.me"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
+<p>
+  <a href="https://dev.to/divithselvam"><img src="https://img.shields.io/badge/-@divithselvam-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=dev.to&link=https://dev.to/divithselvam" alt="DevTo Badge"></a>
+  <a href="https://linkedin.com/in/divith-s"><img src="https://img.shields.io/badge/-@divith%20s-0A66C2?style=flat-square&labelColor=0A66C2&logo=LinkedIn&link=https://linkedin.com/in/divith-s" alt="LinkedIn Badge"></a>
+  <a href="https://instagram.com/ninja_qiqi"><img src="https://img.shields.io/badge/-@ninja_qiqi-E4405F?style=flat-square&labelColor=E4405F&logo=Instagram&link=https://instagram.com/ninja_qiqi" alt="Instagram Badge"></a>
+  <a href="https://www.youtube.com/c/divithselvam"><img src="https://img.shields.io/badge/-@divithselvam-FF0000?style=flat-square&labelColor=FF0000&logo=YouTube&link=https://www.youtube.com/c/divithselvam" alt="YouTube Badge"></a>
+  <a href="https://www.leetcode.com/divith23"><img src="https://img.shields.io/badge/-@divith23-FFA116?style=flat-square&labelColor=FFA116&logo=LeetCode&link=https://www.leetcode.com/divith23" alt="LeetCode Badge"></a>
+  <a href="https://discord.gg/ninja_on_steroids"><img src="https://img.shields.io/badge/-@ninja_on_steroids-7289DA?style=flat-square&labelColor=7289DA&logo=Discord&link=https://discord.gg/ninja_on_steroids" alt="Discord Badge"></a>
+</p>
+
+<p>
+  <a href="https://www.buymeacoffee.com/ninjaonsteroids"><img src="https://img.shields.io/badge/-Support%20Me-FFDD00?style=flat-square&labelColor=FFDD00&logo=BuyMeACoffee&link=https://www.buymeacoffee.com/ninjaonsteroids" alt="Support Me Badge"></a>
+</p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
