@@ -114,4 +114,3 @@ I'm the CEO & Founder at **[OneDot Communications](https://github.com/OneDot-Com
 ## 📫 Get in Touch
 Don't forget to get some Potassium 🍌
 
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Animated GIF" />
