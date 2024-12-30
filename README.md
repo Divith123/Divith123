@@ -4,7 +4,7 @@ I'm the CEO & Founder at **[OneDot Communications](https://onedotcommunications.
 
 <p align="left">
   <a href="https://linkedin.com/in/divith-s"><img src="https://img.shields.io/badge/-@divith%20s-0A66C2?style=flat-square&labelColor=0A66C2&logo=LinkedIn&link=https://linkedin.com/in/divith-s" alt="LinkedIn Badge"></a>
-  <a href="https://www.leetcode.com/divith23"><img src="https://img.shields.io/badge/-@divith23-FFA116?style=flat-square&labelColor=FFA116&logo=LeetCode&link=https://www.leetcode.com/divith23" alt="LeetCode Badge"></a>
+  <a href="https://www.leetcode.com/Divith023"><img src="https://img.shields.io/badge/-@divith23-FFA116?style=flat-square&labelColor=FFA116&logo=LeetCode&link=https://www.leetcode.com/divith23" alt="LeetCode Badge"></a>
   <a href="https://dev.to/divithselvam"><img src="https://img.shields.io/badge/-@divithselvam-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=dev.to&link=https://dev.to/divithselvam" alt="DevTo Badge"></a>
   <a href="https://instagram.com/ninja_qiqi"><img src="https://img.shields.io/badge/-@ninja_qiqi-E4405F?style=flat-square&labelColor=E4405F&logo=Instagram&link=https://instagram.com/ninja_qiqi" alt="Instagram Badge"></a>
   <a href="https://www.youtube.com/c/divithselvam"><img src="https://img.shields.io/badge/-@divithselvam-FF0000?style=flat-square&labelColor=FF0000&logo=YouTube&link=https://www.youtube.com/c/divithselvam" alt="YouTube Badge"></a>
