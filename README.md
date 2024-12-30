@@ -1,62 +1,127 @@
-<h2>Hey 👋, I'm <a href="https://ninjaonsteroids.me/">Ninja</a></h2>
-<p>I'm CEO & Founder at <strong><a href="https://github.com/OneDot-Communications">OneDot Communications</a></strong> based in India. I'm passionate about technology and enjoy tackling complex problems through my work. My interests include Data Science, Machine Learning, and Android Development. When I'm not coding, I focus on Android OS customization and creating custom operating systems.</p>
-<p>
-  <a href="https://linkedin.com/in/divith-s"><img src="https://img.shields.io/badge/-@divith%20s-0A66C2?style=flat-square&labelColor=0A66C2&logo=LinkedIn&link=https://linkedin.com/in/divith-s" alt="LinkedIn Badge"></a>
+# Hi there, I'm [Ninja](https://ninjaonsteroids.me/) 👋
+
+## About Me
+I'm the CEO & Founder of [OneDot Communications](https://github.com/OneDot-Communications) based in India. I'm passionate about technology and enjoy tackling complex problems through my work. My interests include Data Science, Machine Learning, and Android Development. When I'm not coding, I focus on Android OS customization and creating custom operating systems.
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divith123&show_icons=true&count_private=true&theme=dark)
+
+![HitCount](https://hits.dwyl.com/Divith123/Divith123/Divith123.svg?style=flat-square)
+
+## 🛠️ Skills & Expertise
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-89E051?style=flat&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+### **Frontend Frameworks & Libraries**
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+### **Backend Frameworks & Libraries**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+
+### **Mobile Development**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+### **Version Control**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=flat&logo=github-pages&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+### **Machine Learning & Data Science**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F77F00?style=flat&logo=huggingface&logoColor=white)
+
+### **Design & Prototyping**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_CC-FF0000?style=flat&logo=adobe-creative-cloud&logoColor=white)
+![InDesign](https://img.shields.io/badge/Adobe_InDesign-FF9A00?style=flat&logo=adobe-indesign&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-000000?style=flat&logo=framer&logoColor=white)
+
+### **Other Tools**
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat&logo=node.js&logoColor=white)
+
+## 🔗 Connect with Me
+<div align="left">
+  <a href="https://linkedin.com/in/divith-s"><img src="https://img.shields.io/badge/-@divith%20s-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/divith-s" alt="LinkedIn Badge"></a>
   <a href="https://www.leetcode.com/divith23"><img src="https://img.shields.io/badge/-@divith23-FFA116?style=flat-square&labelColor=FFA116&logo=LeetCode&link=https://www.leetcode.com/divith23" alt="LeetCode Badge"></a>
   <a href="https://dev.to/divithselvam"><img src="https://img.shields.io/badge/-@divithselvam-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=dev.to&link=https://dev.to/divithselvam" alt="DevTo Badge"></a>
   <a href="https://instagram.com/ninja_qiqi"><img src="https://img.shields.io/badge/-@ninja_qiqi-E4405F?style=flat-square&labelColor=E4405F&logo=Instagram&link=https://instagram.com/ninja_qiqi" alt="Instagram Badge"></a>
   <a href="https://www.youtube.com/c/divithselvam"><img src="https://img.shields.io/badge/-@divithselvam-FF0000?style=flat-square&labelColor=FF0000&logo=YouTube&link=https://www.youtube.com/c/divithselvam" alt="YouTube Badge"></a>
   <a href="https://discord.gg/ninja_on_steroids"><img src="https://img.shields.io/badge/-@ninja_on_steroids-7289DA?style=flat-square&labelColor=7289DA&logo=Discord&link=https://discord.gg/ninja_on_steroids" alt="Discord Badge"></a>
-</p>
-
-<p>
   <a href="https://www.buymeacoffee.com/ninjaonsteroids"><img src="https://img.shields.io/badge/-Support%20Me-FFDD00?style=flat-square&labelColor=FFDD00&logo=BuyMeACoffee&link=https://www.buymeacoffee.com/ninjaonsteroids" alt="Support Me Badge"></a>
-</p>
-<p>Don't forget to get some Potassium</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Divith123/OpenSource-Ninja">OpenSource</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Divith123">Github</a>.</li>
-<li>📝 You <del>can</del> see my <a href="https://ninjaonsteroids.me">portfolio</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.ninjaonsteroids.me/resume/ninja-resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
-</ul>
-<h2>✒️ Recent Posts</h2>
+</div>
+
+## ⚡️ A Few Quick Facts
+- 🔭 I’m currently working on [OpenSource](https://github.com/Divith123/OpenSource-Ninja).
+- 🧐 Learning about **serverless architectures**, **distributed systems**, and a bit of **ML**.
+- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/Divith123).
+- 📝 Check out my [portfolio](https://ninjaonsteroids.me).
+- 💬 Ping me about **React, Koa, security, and cloud technologies**.
+- 📄 View my [resume](https://www.ninjaonsteroids.me/resume/ninja-resume.pdf).
+- 🎉 Fun Fact: 我也会讲中文。
+
+## ✒️ Recent Posts
 <details>
-    <summary>Explore</summary>
-  <li><a target="_blank" href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation">Maximizing Efficiency and Impact - Why I Choose Mermaid for Graph Creation — June 19, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/til-how-casing-can-break-netlify-functions">TIL How Casing Can Break Netlify Functions — February 27, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/godaddy-redirect-hack">GoDaddy Redirect Hack — December 20, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/airpods-not-charging-on-windows">Airpods Not Charging on Windows — August 19, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
+  <summary>Explore</summary>
+  <ul>
+    <li><a href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation" target="_blank">Maximizing Efficiency and Impact - Why I Choose Mermaid for Graph Creation — June 19, 2023</a></li>
+    <li><a href="https://blog.stanleylim.me/til-how-casing-can-break-netlify-functions" target="_blank">TIL How Casing Can Break Netlify Functions — February 27, 2023</a></li>
+    <li><a href="https://blog.stanleylim.me/godaddy-redirect-hack" target="_blank">GoDaddy Redirect Hack — December 20, 2022</a></li>
+    <li><a href="https://blog.stanleylim.me/airpods-not-charging-on-windows" target="_blank">AirPods Not Charging on Windows — August 19, 2022</a></li>
+    <li><a href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project" target="_blank">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
+  </ul>
 </details>
-<p><a target="_blank" href="https://ninjaonsteroids.me">Read More</a></p>
-<h2>🚀 Some Tools I Use</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="travis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
-</p>
-<img src="https://github-readme-stats.vercel.app/api?username=Divith123&show_icons=true&count_private=true" alt="Divith123" />
-<p><a href="http://hits.dwyl.com/Divith123/Divith123/Divith123.svg?style=flat-square"><img src="https://hits.dwyl.com/Divith123/Divith123/Divith123.svg?style=flat-square" alt="HitCount"></a></p>
+<p><a href="https://ninjaonsteroids.me" target="_blank">Read More</a></p>
+
+## 📫 Get in Touch
+Don't forget to get some Potassium 🍌
+
+![Animated GIF](https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
