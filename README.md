@@ -1,6 +1,6 @@
 # Hey 👋, I'm [Ninja](https://ninjaonsteroids.me/)
 
-I'm the CEO & Founder at **[OneDot Communications](https://github.com/OneDot-Communications)** based in India. I'm passionate about technology and enjoy tackling complex problems through my work. My interests include Data Science, Machine Learning, and Android Development. When I'm not coding, I focus on Android OS customization and creating custom operating systems.
+I'm the CEO & Founder at **[OneDot Communications](https://onedotcommunications.cloud)** based in India. I'm passionate about technology and enjoy tackling complex problems through my work. My interests include Data Science, Machine Learning, and Android Development. When I'm not coding, I focus on Android OS customization and creating custom operating systems.
 
 <p align="left">
   <a href="https://linkedin.com/in/divith-s"><img src="https://img.shields.io/badge/-@divith%20s-0A66C2?style=flat-square&labelColor=0A66C2&logo=LinkedIn&link=https://linkedin.com/in/divith-s" alt="LinkedIn Badge"></a>
