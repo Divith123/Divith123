@@ -34,7 +34,7 @@ I'm the CEO & Founder at **[OneDot Communications](https://onedotcommunications.
     <li><a href="https://blog.stanleylim.me/til-how-casing-can-break-netlify-functions" target="_blank">TIL How Casing Can Break Netlify Functions — February 27, 2023</a></li>
     <li><a href="https://blog.stanleylim.me/godaddy-redirect-hack" target="_blank">GoDaddy Redirect Hack — December 20, 2022</a></li>
     <li><a href="https://blog.stanleylim.me/airpods-not-charging-on-windows" target="_blank">AirPods Not Charging on Windows — August 19, 2022</a></li>
-    <li><a href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project" target="_blank">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
+    <li><a href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project" target="_blank"> The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
   </ul>
 </details>
 <p><a href="https://ninjaonsteroids.me" target="_blank">Read More</a></p>
