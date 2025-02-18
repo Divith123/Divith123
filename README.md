@@ -2,45 +2,18 @@
 
 I'm the CEO & Founder at **[OneDot Communications](https://onedotcommunications.cloud)** based in India. I'm passionate about technology and enjoy tackling complex problems through my work. My interests include Data Science, Machine Learning, and Android Development. When I'm not coding, I focus on Android OS customization and creating custom operating systems.
 
-<!-- Social Media Badges -->
 <p align="left">
-  <!-- LinkedIn Badge -->
-  <a href="https://linkedin.com/in/divith-s">
-    <img src="https://img.shields.io/badge/-Divith%20S-0A66C2?style=flat-square&labelColor=0A66C2&logo=linkedin&link=https://linkedin.com/in/divith-s" alt="LinkedIn Badge">
-  </a>
-  
-  <!-- LeetCode Badge -->
-  <a href="https://www.leetcode.com/Divith023">
-    <img src="https://img.shields.io/badge/-Divith023-FFA116?style=flat-square&labelColor=FFA116&logo=leetcode&link=https://www.leetcode.com/Divith023" alt="LeetCode Badge">
-  </a>
-  
-  <!-- Dev.to Badge -->
-  <a href="https://dev.to/divithselvam">
-    <img src="https://img.shields.io/badge/-divithselvam-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=devdotto&link=https://dev.to/divithselvam" alt="DevTo Badge">
-  </a>
-  
-  <!-- Instagram Badge -->
-  <a href="https://instagram.com/ninja_qiqi">
-    <img src="https://img.shields.io/badge/-ninja_qiqi-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&link=https://instagram.com/ninja_qiqi" alt="Instagram Badge">
-  </a>
-  
-  <!-- YouTube Badge -->
-  <a href="https://www.youtube.com/c/divithselvam">
-    <img src="https://img.shields.io/badge/-divithselvam-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&link=https://www.youtube.com/c/divithselvam" alt="YouTube Badge">
-  </a>
-  
-  <!-- Discord Badge -->
-  <a href="https://discord.gg/ninja_on_steroids">
-    <img src="https://img.shields.io/badge/-ninja_on_steroids-7289DA?style=flat-square&labelColor=7289DA&logo=discord&link=https://discord.gg/ninja_on_steroids" alt="Discord Badge">
-  </a>
+  <a href="https://linkedin.com/in/divith-s"><img src="https://img.shields.io/badge/-@divith--s-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/divith-s" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/Divith023"><img src="https://img.shields.io/badge/-@Divith023-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/Divith023" alt="LeetCode"></a>
+  <a href="https://dev.to/divithselvam"><img src="https://img.shields.io/badge/-@divithselvam-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/divithselvam" alt="Dev.to"></a>
+  <a href="https://instagram.com/ninja_qiqi"><img src="https://img.shields.io/badge/-@ninja__qiqi-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/ninja_qiqi" alt="Instagram"></a>
+  <a href="https://www.youtube.com/c/divithselvam"><img src="https://img.shields.io/badge/-@divithselvam-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/c/divithselvam" alt="YouTube"></a>
+  <a href="https://discord.gg/ninja_on_steroids"><img src="https://img.shields.io/badge/-@ninja__steroids-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/ninja_on_steroids" alt="Discord"></a>
+</p>
+<p>
+  <a href="https://www.buymeacoffee.com/ninjaonsteroids"><img src="https://img.shields.io/badge/-Buy%20Me%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black&link=https://www.buymeacoffee.com/ninjaonsteroids" alt="Buy Me Coffee"></a>
 </p>
 
-<!-- Support Me Badge -->
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ninjaonsteroids">
-    <img src="https://img.shields.io/badge/-Support%20Me-FFDD00?style=flat-square&labelColor=FFDD00&logo=buymeacoffee&link=https://www.buymeacoffee.com/ninjaonsteroids" alt="Support Me">
-  </a>
-</p>
 <p>Don't forget to get some Potassium..</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
