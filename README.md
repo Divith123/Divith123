@@ -14,7 +14,7 @@ I'm the CEO & Founder at **[OneDot Communications](https://onedotcommunications.
 <p>
   <a href="https://www.buymeacoffee.com/ninjaonsteroids"><img src="https://img.shields.io/badge/-Support%20Me-FFDD00?style=flat-square&labelColor=FFDD00&logo=BuyMeACoffee&link=https://www.buymeacoffee.com/ninjaonsteroids" alt="Support Me "></a>
 </p>
-<p>Don't forget to get some Potassium 🍌</p>
+<p>Don't forget to get some Potassium..</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ## ⚡️ A Few Quick Facts
