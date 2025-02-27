@@ -20,7 +20,7 @@ I'm the CEO & Founder at **[OneDot Communications](https://onedotcommunications.
 ## ⚡️ A Few Quick Facts
 - 🔭 I’m currently working on [OpenSource](https://github.com/Divith123/OpenSource-Ninja).
 - 🧐 Learning about **serverless architectures**, **distributed systems**, and a bit of **ML**.
-- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/Divith123).
+- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/Divith123?tab=repositories).
 - 📝 Check out my [portfolio](https://ninjaonsteroids.me).
 - 💬 Ping me about **React, Koa, security, and cloud technologies**.
 - 📄 View my [resume](https://www.ninjaonsteroids.me/resume/ninja-resume.pdf).
