@@ -99,5 +99,5 @@ I'm the CEO & Founder at **[OneDot Communications](https://onedotcommunications.
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-F77F00?style=flat&logo=huggingface&logoColor=white)
 
 ## 📫 Get in Touch
-Don't forget to get some Potassium 🍌
+Don't forget to get some Potassium 
 
