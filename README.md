@@ -17,9 +17,15 @@ I'm the CEO & Founder at **[OneDot Communications](https://onedotcommunications.
 
 <p>Don't forget to get some Potassium..</p>
 
-<p>
-  <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-</p>
+<!-- ✅ TENOR EMBED (unchanged size, fixed) -->
+
+<div class="tenor-gif-embed"
+     data-postid="26864581"
+     data-share-method="host"
+     data-aspect-ratio="1.77778"
+     data-width="100%">
+</div>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## ⚡️ A Few Quick Facts
 
@@ -76,20 +82,6 @@ I'm the CEO & Founder at **[OneDot Communications](https://onedotcommunications.
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat\&logo=latex\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat\&logo=canva\&logoColor=white)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
-
-### DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazon-aws\&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat\&logo=google-cloud\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat\&logo=netlify\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
 
 ## 📫 Get in Touch
 
