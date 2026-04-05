@@ -17,13 +17,11 @@ I'm the CEO & Founder at **[OneDot Communications](https://onedotcommunications.
 
 <p>Don't forget to get some Potassium..</p>
 
-<!-- ✅ TENOR EMBED (unchanged size, fixed) -->
+<!-- ✅ YOUR EXACT TENOR EMBED -->
 
-<div class="tenor-gif-embed"
-     data-postid="26864581"
-     data-share-method="host"
-     data-aspect-ratio="1.77778"
-     data-width="100%">
+<div class="tenor-gif-embed" data-postid="26864581" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%">
+  <a href="https://tenor.com/view/suzume-no-tojimari-makoto-shinkai-cat-gif-26864581">Suzume No Tojimari GIF</a>
+  from <a href="https://tenor.com/search/suzume-gifs">Suzume GIFs</a>
 </div>
 <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
@@ -75,13 +73,7 @@ I'm the CEO & Founder at **[OneDot Communications](https://onedotcommunications.
 ### Development Tools
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat\&logo=android-studio\&logoColor=white)
-![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat\&logo=visual-studio\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat\&logo=powershell\&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat\&logo=markdown\&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat\&logo=latex\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat\&logo=canva\&logoColor=white)
 
 ## 📫 Get in Touch
 
