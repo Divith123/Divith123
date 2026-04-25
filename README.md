@@ -18,7 +18,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/-About_Me-0d1117?style=flat-square&logo=readthedocs&logoColor=1D9E75" height="24" align="center"/> &nbsp;About Me
+## <img src="https://img.shields.io/badge/-About_Me-0d1117?style=flat-square&logo=readthedocs&logoColor=1D9E75" height="24" align="center"/> &nbsp;
 
 ```yaml
 name:        Divith S  (Ninja)
@@ -32,7 +32,7 @@ speaks:      Tamil · English · Mandarin Chinese
 
 ---
 
-## <img src="https://img.shields.io/badge/-Projects-0d1117?style=flat-square&logo=codepen&logoColor=1D9E75" height="24" align="center"/> &nbsp;What I'm Building
+## <img src="https://img.shields.io/badge/-Projects-0d1117?style=flat-square&logo=codepen&logoColor=1D9E75" height="24" align="center"/> &nbsp;
 
 | Project | Description | Stack |
 |---|---|---|
@@ -42,7 +42,7 @@ speaks:      Tamil · English · Mandarin Chinese
 
 ---
 
-## <img src="https://img.shields.io/badge/-Tech_Stack-0d1117?style=flat-square&logo=stackshare&logoColor=1D9E75" height="24" align="center"/> &nbsp;Tech Stack
+## <img src="https://img.shields.io/badge/-Tech_Stack-0d1117?style=flat-square&logo=stackshare&logoColor=1D9E75" height="24" align="center"/> &nbsp;
 
 **AI / LLM**
 
@@ -98,7 +98,7 @@ speaks:      Tamil · English · Mandarin Chinese
 
 ---
 
-## <img src="https://img.shields.io/badge/-Experience-0d1117?style=flat-square&logo=briefcase&logoColor=1D9E75" height="24" align="center"/> &nbsp;Experience
+## <img src="https://img.shields.io/badge/-Experience-0d1117?style=flat-square&logo=briefcase&logoColor=1D9E75" height="24" align="center"/> &nbsp;
 
 **CHN Technologies** — *Software Engineer Intern* &nbsp;|&nbsp; Coimbatore &nbsp;|&nbsp; Dec 2025 – Present
 
@@ -110,7 +110,7 @@ speaks:      Tamil · English · Mandarin Chinese
 
 ---
 
-## <img src="https://img.shields.io/badge/-Certifications-0d1117?style=flat-square&logo=googlescholar&logoColor=1D9E75" height="24" align="center"/> &nbsp;Certifications
+## <img src="https://img.shields.io/badge/-Certifications-0d1117?style=flat-square&logo=googlescholar&logoColor=1D9E75" height="24" align="center"/> &nbsp;
 
 | Certification | Issuer | Year |
 |---|---|---|
@@ -122,7 +122,7 @@ speaks:      Tamil · English · Mandarin Chinese
 
 ---
 
-## <img src="https://img.shields.io/badge/-GitHub_Stats-0d1117?style=flat-square&logo=github&logoColor=1D9E75" height="24" align="center"/> &nbsp;GitHub Stats
+## <img src="https://img.shields.io/badge/-GitHub_Stats-0d1117?style=flat-square&logo=github&logoColor=1D9E75" height="24" align="center"/> &nbsp;
 
 <div align="center">
 
@@ -138,19 +138,7 @@ speaks:      Tamil · English · Mandarin Chinese
 
 ---
 
-## <img src="https://img.shields.io/badge/-Contribution_Snake-0d1117?style=flat-square&logo=github&logoColor=1D9E75" height="24" align="center"/> &nbsp;Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divith123/Divith123/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divith123/Divith123/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Divith123/Divith123/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
----
-
-## <img src="https://img.shields.io/badge/-Achievements-0d1117?style=flat-square&logo=hackthebox&logoColor=1D9E75" height="24" align="center"/> &nbsp;Achievements
+## <img src="https://img.shields.io/badge/-Achievements-0d1117?style=flat-square&logo=hackthebox&logoColor=1D9E75" height="24" align="center"/> &nbsp;
 
 ![HackNext](https://img.shields.io/badge/HackNext_Winner-SNS_College_%7C_Apr_2026-1D9E75?style=flat-square&logo=hackthebox&logoColor=white)
 
@@ -160,7 +148,7 @@ speaks:      Tamil · English · Mandarin Chinese
 
 ---
 
-## <img src="https://img.shields.io/badge/-Connect-0d1117?style=flat-square&logo=icloud&logoColor=1D9E75" height="24" align="center"/> &nbsp;Connect With Me
+## <img src="https://img.shields.io/badge/-Connect-0d1117?style=flat-square&logo=icloud&logoColor=1D9E75" height="24" align="center"/> &nbsp;
 
 <p align="left">
   <a href="https://linkedin.com/in/divith-s"><img src="https://img.shields.io/badge/LinkedIn-divith--s-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
