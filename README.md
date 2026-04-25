@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Divith123&style=flat-square&color=1D9E75&label=Profile+Views" alt="profile views"/>
   &nbsp;
-  <a href="https://ninjaonsteroids.me"><img src="https://img.shields.io/badge/Portfolio-ninjaonsteroids.me-1D9E75?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://divithselvam.in"><img src="https://img.shields.io/badge/Portfolio-divithselvam.in-1D9E75?style=flat-square&logo=vercel&logoColor=white"/></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20AI-0F6E56?style=flat-square&logo=statuspage&logoColor=white"/>
 </p>
@@ -21,7 +21,7 @@
 ## 🧠 About Me
 
 ```yaml
-name:        Divith S  (aka Ninja)
+name:        Divith S  ( Ninja)
 role:        Full-Stack AI Engineer  |  CEO & Founder @ OneDot Communications
 location:    India 🇮🇳
 education:   B.Tech — AI & Data Science, SNS College of Engineering (GPA: 7.8 | 2026)
