@@ -23,10 +23,8 @@
 ```yaml
 name:        Divith S  (Ninja)
 role:        Full-Stack AI Engineer  |  CEO & Founder @ OneDot Communications
-location:    India
-education:   B.Tech — AI & Data Science, SNS College of Engineering (GPA: 7.8 | 2026)
 focus:       Production-ready AI systems · Scalable web/mobile apps · Real-world problem solving
-fun_fact:    HackNext Winner (Apr 2026) · 3000+ ROM downloads · 我也会讲中文
+fun_fact:    我也会讲中文
 speaks:      Tamil · English · Mandarin Chinese
 ```
 
