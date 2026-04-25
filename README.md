@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1D9E75&height=140&section=header&animation=fadeIn&fontFamily=Gabarito&fontSize=36&fontColor=ffffff&text=Divith%20S" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1D9E75&height=140&section=header&animation=fadeIn&fontFamily=Gabarito&fontSize=40&fontColor=ffffff&text=Divith%20S&desc=Full-Stack%20AI%20Engineer&descSize=18&descAlignY=75&descAlign=50&fontAlignY=45" width="100%"/>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Gabarito&weight=600&size=24&pause=1000&color=1D9E75&center=true&vCenter=true&width=740&lines=Full-Stack+AI+Engineer;Building+production-ready+AI+systems;Open+Source+Contributor;CEO+%40+OneDot+Communications" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Gabarito&weight=700&size=24&pause=1000&color=1D9E75&center=true&vCenter=true&width=740&lines=Building+production-ready+AI+systems;Open+Source+Contributor;CEO+%40+OneDot+Communications;HackNext+Winner+2026" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -22,9 +24,9 @@
 
 </div>
 
----
+<br/>
 
-## <img src="https://img.shields.io/badge/-About_Me-0d1117?style=flat-square&logo=readthedocs&logoColor=1D9E75" height="22" align="center"/> &nbsp;About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=44&text=About%20Me&fontFamily=Gabarito&fontSize=20&fontColor=1D9E75&fontAlign=6&fontAlignY=62&section=header" width="100%"/>
 
 ```yaml
 name:        Divith S  (Ninja)
@@ -36,9 +38,9 @@ highlights:  HackNext Winner (Apr 2026)  ·  3000+ ROM downloads  ·  我也会�
 speaks:      Tamil  ·  English  ·  Mandarin Chinese
 ```
 
----
+<br/>
 
-## <img src="https://img.shields.io/badge/-Projects-0d1117?style=flat-square&logo=codepen&logoColor=1D9E75" height="22" align="center"/> &nbsp;What I'm Building
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=44&text=What%20I%27m%20Building&fontFamily=Gabarito&fontSize=20&fontColor=1D9E75&fontAlign=8&fontAlignY=62&section=header" width="100%"/>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -46,11 +48,13 @@ speaks:      Tamil  ·  English  ·  Mandarin Chinese
 | **[DeepSecure-AI](https://github.com/Divith123)** | Multimodal forensic pipeline · 94% accuracy across inputs | EfficientNetV2 · ONNX · Gradio |
 | **[Ninja-OS](https://github.com/Divith123)** | High-perf AOSP ROM · 3000+ downloads · Reduced throttling by 35% | AOSP · KernelSU · CI/CD |
 
----
+<br/>
 
-## <img src="https://img.shields.io/badge/-Tech_Stack-0d1117?style=flat-square&logo=stackshare&logoColor=1D9E75" height="22" align="center"/> &nbsp;Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=44&text=Tech%20Stack&fontFamily=Gabarito&fontSize=20&fontColor=1D9E75&fontAlign=5&fontAlignY=62&section=header" width="100%"/>
 
-**AI / LLM**
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=32&text=AI%20%2F%20LLM&fontFamily=Gabarito&fontSize=14&fontColor=aaaaaa&fontAlign=4&fontAlignY=65&section=header" width="100%"/>
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -61,7 +65,7 @@ speaks:      Tamil  ·  English  ·  Mandarin Chinese
 ![RAG](https://img.shields.io/badge/RAG-0F6E56?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-1D9E75?style=flat-square&logoColor=white)
 
-**Frontend & Mobile**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=32&text=Frontend%20%26%20Mobile&fontFamily=Gabarito&fontSize=14&fontColor=aaaaaa&fontAlign=6&fontAlignY=65&section=header" width="100%"/>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -71,7 +75,7 @@ speaks:      Tamil  ·  English  ·  Mandarin Chinese
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**Backend & APIs**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=32&text=Backend%20%26%20APIs&fontFamily=Gabarito&fontSize=14&fontColor=aaaaaa&fontAlign=5&fontAlignY=65&section=header" width="100%"/>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -82,7 +86,7 @@ speaks:      Tamil  ·  English  ·  Mandarin Chinese
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
-**Databases & Storage**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=32&text=Databases%20%26%20Storage&fontFamily=Gabarito&fontSize=14&fontColor=aaaaaa&fontAlign=7&fontAlignY=65&section=header" width="100%"/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
@@ -93,7 +97,7 @@ speaks:      Tamil  ·  English  ·  Mandarin Chinese
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E699?style=flat-square&logo=neon&logoColor=black)
 
-**Cloud & DevOps**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=32&text=Cloud%20%26%20DevOps&fontFamily=Gabarito&fontSize=14&fontColor=aaaaaa&fontAlign=5&fontAlignY=65&section=header" width="100%"/>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
@@ -104,9 +108,9 @@ speaks:      Tamil  ·  English  ·  Mandarin Chinese
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
----
+<br/>
 
-## <img src="https://img.shields.io/badge/-Experience-0d1117?style=flat-square&logo=briefcase&logoColor=1D9E75" height="22" align="center"/> &nbsp;Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=44&text=Experience&fontFamily=Gabarito&fontSize=20&fontColor=1D9E75&fontAlign=5&fontAlignY=62&section=header" width="100%"/>
 
 **CHN Technologies** &nbsp;—&nbsp; Software Engineer Intern &nbsp;|&nbsp; Coimbatore &nbsp;|&nbsp; Dec 2025 – Present
 
@@ -116,9 +120,9 @@ speaks:      Tamil  ·  English  ·  Mandarin Chinese
 
 > Blazor / .NET full-stack &nbsp;·&nbsp; SQL performance tuning &nbsp;·&nbsp; Agile/Scrum &nbsp;·&nbsp; REST API integrations
 
----
+<br/>
 
-## <img src="https://img.shields.io/badge/-Certifications-0d1117?style=flat-square&logo=googlescholar&logoColor=1D9E75" height="22" align="center"/> &nbsp;Certifications
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=44&text=Certifications&fontFamily=Gabarito&fontSize=20&fontColor=1D9E75&fontAlign=6&fontAlignY=62&section=header" width="100%"/>
 
 | Certification | Issuer | Year |
 |---|---|---|
@@ -128,9 +132,11 @@ speaks:      Tamil  ·  English  ·  Mandarin Chinese
 | ![Postman](https://img.shields.io/badge/API_Fundamentals_Student_Expert-FF6C37?style=flat-square&logo=postman&logoColor=white) | Postman Academy | 2025 |
 | ![LinkedIn](https://img.shields.io/badge/Career_Essentials_in_Generative_AI-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | LinkedIn Learning | 2025 |
 
----
+<br/>
 
-## <img src="https://img.shields.io/badge/-GitHub_Stats-0d1117?style=flat-square&logo=github&logoColor=1D9E75" height="22" align="center"/> &nbsp;GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=44&text=GitHub%20Stats&fontFamily=Gabarito&fontSize=20&fontColor=1D9E75&fontAlign=6&fontAlignY=62&section=header" width="100%"/>
+
+<br/>
 
 <div align="center">
 
@@ -144,17 +150,21 @@ speaks:      Tamil  ·  English  ·  Mandarin Chinese
 
 </div>
 
----
+<br/>
 
-## <img src="https://img.shields.io/badge/-Contribution_Graph-0d1117?style=flat-square&logo=githubactions&logoColor=1D9E75" height="22" align="center"/> &nbsp;Contribution Graph
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=44&text=Contribution%20Graph&fontFamily=Gabarito&fontSize=20&fontColor=1D9E75&fontAlign=7&fontAlignY=62&section=header" width="100%"/>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divith123&bg_color=0d1117&color=1D9E75&line=1D9E75&point=0F6E56&area=true&area_color=1D9E75&border_color=1D9E75&hide_border=false&theme=react-dark" width="100%"/>
 </div>
 
----
+<br/>
 
-## <img src="https://img.shields.io/badge/-Achievements-0d1117?style=flat-square&logo=hackthebox&logoColor=1D9E75" height="22" align="center"/> &nbsp;Achievements
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=44&text=Achievements&fontFamily=Gabarito&fontSize=20&fontColor=1D9E75&fontAlign=6&fontAlignY=62&section=header" width="100%"/>
+
+<br/>
 
 ![HackNext](https://img.shields.io/badge/HackNext_Winner-SNS_College_%7C_Apr_2026-1D9E75?style=flat-square&logo=hackthebox&logoColor=white)
 
@@ -162,9 +172,11 @@ speaks:      Tamil  ·  English  ·  Mandarin Chinese
 
 ![OSS](https://img.shields.io/badge/GitHub_OSS_Contributor-Juspay_·_Angular_·_Flutter_·_Better--Fullstack-181717?style=flat-square&logo=github&logoColor=white)
 
----
+<br/>
 
-## <img src="https://img.shields.io/badge/-Connect-0d1117?style=flat-square&logo=icloud&logoColor=1D9E75" height="22" align="center"/> &nbsp;Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=44&text=Connect%20With%20Me&fontFamily=Gabarito&fontSize=20&fontColor=1D9E75&fontAlign=7&fontAlignY=62&section=header" width="100%"/>
+
+<br/>
 
 <p align="left">
   <a href="https://linkedin.com/in/divith-s">
@@ -204,9 +216,6 @@ speaks:      Tamil  ·  English  ·  Mandarin Chinese
   </a>
 </p>
 
----
+<br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1D9E75&height=90&section=footer&animation=fadeIn&fontFamily=Gabarito" width="100%"/>
-  <sub>Built with care &nbsp;·&nbsp; Always learning &nbsp;·&nbsp; Open to collabs</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1D9E75&height=100&section=footer&animation=fadeIn&fontFamily=Gabarito&fontSize=16&fontColor=ffffff&text=Built%20with%20care%20%C2%B7%20Always%20learning%20%C2%B7%20Open%20to%20collabs&fontAlignY=65" width="100%"/>
