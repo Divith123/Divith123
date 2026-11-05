@@ -14,14 +14,14 @@ DESCRIPTION
        tools in TypeScript. Sends pull requests to projects it does not own.
 
 LOCATION
-       Tamil Nadu, India. Works remotely.
+       Tamil Nadu, India.
 ```
 
 ## If you are hiring for...
 
 | You need | Start here | What you can check |
 |---|---|---|
-| **macOS or native desktop** | [PolarBear](https://github.com/Divith123/PolarBear) | LaTeX and Markdown editor: SwiftUI front end, Rust engine. [v1.0](https://github.com/Divith123/PolarBear/releases/tag/v1.0) is a signed-off DMG with a checksum file (see below). |
+| **macOS or native desktop** | [PolarBear](https://github.com/Divith123/PolarBear) | LaTeX and Markdown editor: Swift (SwiftUI, AppKit, PDFKit) front end with a Rust engine. [v1.0](https://github.com/Divith123/PolarBear/releases/tag/v1.0) is a DMG with a SHA-256 file (see below). |
 | **Mobile (Flutter)** | [Playschool](https://github.com/Divith123/Playschool) | One app, three roles (admin, staff, parent). Nine tagged releases in three days (31 Dec to 2 Jan), including an Android APK and Linux and macOS builds. |
 | **Local AI, full-stack TypeScript** | [LoRA](https://github.com/Divith123/LoRA-The-Second-Brain) | Chat with Ollama models and your own documents. [Live demo](https://loraai.vercel.app), 101 commits. |
 | **Rust, payments** | [hyperswitch #9665](https://github.com/juspay/hyperswitch/pull/9665) | Open since 2025-10-04: an integrity check for the DIGITALVIRGO connector (2 files, +35 / -3). |
