@@ -1,7 +1,5 @@
 # Divith Selvam
 
-Software engineer and founder of OneDot Communications, based in Coimbatore, India.
-
 I build applications and developer tools. Two projects I’m working on:
 
 - [PolarBear](https://github.com/Divith123/PolarBear) — a LaTeX and Markdown editor for macOS.
